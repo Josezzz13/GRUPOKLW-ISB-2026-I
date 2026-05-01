@@ -150,7 +150,9 @@ Se observa una señal ECG con picos R claramente definidos y un ritmo sinusal es
   -  Agreguen alguna otra limitación uwu
 
 ## Referencias
-[a] Hall, J. E. (2021). Guyton and Hall Textbook of Medical Physiology (14th ed.). Elsevier
-[b] Hawkins SM, Guensch DP, Friedrich MG, Vinco G, Nadeshalingham G, White M, Mongeon FP, Hillier E, Teixeira T, Flewitt JA, Eberle B, Fischer K. Hyperventilation-induced heart rate response as a potential marker for cardiovascular disease. Sci Rep. 2019 Nov 29;9(1):17887. doi: 10.1038/s41598-019-54375-9. PMID: 31784617; PMCID: PMC6884614.
-[c] imagen xd --> https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates
+- [a] Hall, J. E. (2021). Guyton and Hall Textbook of Medical Physiology (14th ed.). Elsevier
+
+- [b] Hawkins SM, Guensch DP, Friedrich MG, Vinco G, Nadeshalingham G, White M, Mongeon FP, Hillier E, Teixeira T, Flewitt JA, Eberle B, Fischer K. Hyperventilation-induced heart rate response as a potential marker for cardiovascular disease. Sci Rep. 2019 Nov 29;9(1):17887. doi: 10.1038/s41598-019-54375-9. PMID: 31784617; PMCID: PMC6884614.
+
+- [c] imagen xd --> https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates
 
