@@ -29,7 +29,7 @@
 
 ### Resultados:
 
-#### Primera señal basal obtenida en reposo
+#### I. Primera señal basal obtenida en reposo
 
 <img width="1155" height="742" alt="E1Señalbasal_D1" src="https://github.com/user-attachments/assets/403a6a8d-7287-4676-9148-bd274d25f9dc" />
 
@@ -47,7 +47,7 @@ Se observa una frecuencia cardíaca media de 72.6 bpm y una mayor demarcación d
 
 Se observa una frecuencia cardíaca media de 72.0 bpm, con variaciones moderadas a lo largo del tiempo. El latido promediado presenta una definición clara de las ondas P, QRS y T, aunque con menor amplitud del complejo QRS en comparación con el procesamiento anterior. Se sugiere que tercera etapa de procesamiento mantiene la estabilidad en la detección de picos R, pero con una ligera reducción en las características de alta frecuencia de la señal. 
 
-#### Señal ECG obtenida después de la hiperventilación
+#### II. Señal ECG obtenida después de la primera hiperventilación
 
 <img width="1151" height="742" alt="E1_hiper_D1_V1" src="https://github.com/user-attachments/assets/3df72e91-e94b-4c47-9c77-95c423eec70f" />
 
@@ -65,6 +65,8 @@ Se observa, en comparación con la señal anterior, una menor dispersión en el 
 
 **Figura 6:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la primera hiperventilación  (III Derivada).[Elaboración propia]
 
+#### III. Señal ECG obtenida después de la segunda hiperventilación tras 2 minutos de descanso de la primera
+
 <img width="1153" height="756" alt="E1_hiper_D1" src="https://github.com/user-attachments/assets/22ab3696-4e7e-40c8-8627-b145e376e6ff" />
 
 **Figura 7:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la segunda hiperventilación  (I Derivada).[Elaboración propia]
@@ -76,6 +78,8 @@ Se observa, en comparación con la señal anterior, una menor dispersión en el 
 <img width="1157" height="733" alt="E1_hiper_D3" src="https://github.com/user-attachments/assets/bc51a9a3-1ec8-47c4-82fa-edbeb34b5d14" />
 
 **Figura 9:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la segunda hiperventilación   (III Derivada).[Elaboración propia]
+
+#### IV. Segunda señal basal obtenida en reposo
 
 <img width="1155" height="740" alt="E1_señalbasal_D1_final" src="https://github.com/user-attachments/assets/567caca0-cd32-495b-b9d0-999f69808b40" />
 
@@ -89,6 +93,8 @@ Se observa, en comparación con la señal anterior, una menor dispersión en el 
 
 **Figura 12:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG segundo reposo (III Derivada).[Elaboración propia]
 
+#### V. Señal ECG obtenida tras realizar 4 minutos de Buppers
+
 <img width="1160" height="735" alt="E2_D1" src="https://github.com/user-attachments/assets/66d5f436-880e-487b-9db8-3014b1c7520c" />
 
 **Figura 13:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG tras 4 minutos de buppers (I Derivada).[Elaboración propia]
@@ -100,6 +106,8 @@ Se observa, en comparación con la señal anterior, una menor dispersión en el 
 <img width="1152" height="728" alt="E2_D3" src="https://github.com/user-attachments/assets/110d6c6d-837d-4c8d-8b06-bc0cb87e2f69" />
 
 **Figura 15:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG tras 4 minutos de buppers (III Derivada).[Elaboración propia]
+
+#### V. Señal ECG obtenida tras la hipoventilación
 
 <img width="1152" height="727" alt="E3_hipoventilación_D1" src="https://github.com/user-attachments/assets/a668329f-eb62-45d7-b8d0-d541c959c91c" />
 
