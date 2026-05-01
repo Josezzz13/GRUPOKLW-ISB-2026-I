@@ -24,15 +24,19 @@
 ### Resultados:
 <img width="1155" height="742" alt="E1Señalbasal_D1" src="https://github.com/user-attachments/assets/403a6a8d-7287-4676-9148-bd274d25f9dc" />
 
-**Figura 1:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos individuales. Se obtuvo una frecuencia cardíaca media de 65.4 bpm con morfología consistente de ondas P-QRS-T y baja variabilidad entre latidos. (I Derivada).[Elaboración propia] 
+**Figura 1:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos individuales. Se obtuvo una frecuencia cardíaca media de 65.4 bpm con morfología consistente de ondas P-QRS-T y baja variabilidad entre latidos. (I Derivada).[Elaboración propia]
 
 <img width="1152" height="738" alt="E1señalbasal_D2" src="https://github.com/user-attachments/assets/91122ab8-436f-4fc1-abac-5d4bcd1ad91e" />
 
-**Figura 2:** ECG en reposo inicial  (II Derivada).[Elaboración propia]
+**Figura 2:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos individuales (II Derivada).[Elaboración propia]
+
+Se observa una frecuencia cardíaca media de 72.6 bpm y una mayor prominencia del complejo QRS respecto al análisis previo, lo que mejora la identificación de picos R y la delineación de la morfología P-QRS-T.
 
 <img width="1145" height="761" alt="E1señalbasal_D3" src="https://github.com/user-attachments/assets/d7adf25f-c579-4ed7-a034-ed6b41a56358" />
 
-**Figura 3:** ECG en reposo inicial (III Derivada).[Elaboración propia]
+**Figura 3:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos individuales (III Derivada).[Elaboración propia]
+
+Se observa una frecuencia cardíaca media de 72.0 bpm, con variaciones moderadas a lo largo del tiempo. La morfología del latido promedio presenta una adecuada definición de las ondas P, QRS y T, aunque con menor amplitud del complejo QRS en comparación con el procesamiento anterior. Este resultado sugiere que la tercera etapa de procesamiento mantiene la estabilidad en la detección de picos R, pero con una ligera reducción en la prominencia de las características de alta frecuencia de la señal 
 
 <img width="1153" height="756" alt="E1_hiper_D1" src="https://github.com/user-attachments/assets/22ab3696-4e7e-40c8-8627-b145e376e6ff" />
 
