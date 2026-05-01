@@ -7,11 +7,11 @@
 ### Título
 
 **Integrantes:** 
- *Cárdenas Paniagua, Daniel Bagkdan
- *Soto Casasola, Maria Celina
- *Zapata Castro, José Alonso
- *Eusquiza Rubiños, Matias Enrique 
- *Fuentes Hurtado, Astrid Nayeli 
+* Cárdenas Paniagua, Daniel Bagkdan
+* Soto Casasola, Maria Celina
+* Zapata Castro, José Alonso
+* Eusquiza Rubiños, Matias Enrique 
+* Fuentes Hurtado, Astrid Nayeli 
  
 **2026-I**
 
