@@ -156,6 +156,12 @@ Se observa una señal ECG con picos R claramente definidos y un ritmo sinusal es
   -  Agreguen alguna otra limitación uwu
 
 ## Referencias
+- [1]Y. Sattar y L. Chhabra, “Electrocardiogram”, en StatPearls, Treasure Island (FL): StatPearls Publishing, 2026.
+- [2] E. A. Ashley y J. Niebauer, Conquering the ECG. Londres, Inglaterra: REMEDICA
+- [3]L. G. Tereshchenko y M. E. Josephson, “Frequency content and characteristics of ventricular conduction”, J. Electrocardiol., vol. 48, núm. 6, pp. 933–937, 2015
+- [4]EXPERIMENTAL GUIDES TO MEET y L. Y. Biosignals, “BITalino (r)evolution Lab Guide”, Pluxbiosignals.com. [En línea]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf.
+- [5]A. Akulwar, “Comparing heart rate recovery after aerobic vs. Anaerobic exercise”, Int. J. Med. Biomed. Stud., vol. 2, núm. 3, 2018
+
 - [a] Hall, J. E. (2021). Guyton and Hall Textbook of Medical Physiology (14th ed.). Elsevier
 
 - [b] Hawkins SM, Guensch DP, Friedrich MG, Vinco G, Nadeshalingham G, White M, Mongeon FP, Hillier E, Teixeira T, Flewitt JA, Eberle B, Fischer K. Hyperventilation-induced heart rate response as a potential marker for cardiovascular disease. Sci Rep. 2019 Nov 29;9(1):17887. doi: 10.1038/s41598-019-54375-9. PMID: 31784617; PMCID: PMC6884614.
