@@ -9,7 +9,7 @@
 **Integrantes:** 
 
 
- Fuentes Hurtado, Astrid Nayeli
+ Fuentes Hurtado, Astrid Nayeli />
  Soto Casasola, Maria Celina
  
 **2026-I**
