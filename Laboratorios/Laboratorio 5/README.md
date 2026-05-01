@@ -7,10 +7,11 @@
 ### Título
 
 **Integrantes:** 
-
-
- Fuentes Hurtado, Astrid Nayeli />
- Soto Casasola, Maria Celina
+Cárdenas Paniagua, Daniel Bagkdan
+Soto Casasola, Maria Celina
+Zapata Castro, José Alonso
+Eusquiza Rubiños, Matias Enrique 
+Fuentes Hurtado, Astrid Nayeli 
  
 **2026-I**
 
