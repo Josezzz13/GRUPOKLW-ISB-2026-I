@@ -9,7 +9,9 @@
 ## Metodología
 
 ### Resultados:
-- Figura 1. 
+<img width="1155" height="742" alt="E1Señalbasal_D1" src="https://github.com/user-attachments/assets/403a6a8d-7287-4676-9148-bd274d25f9dc" />
+
+**Figura 1:** ECG de la señal basal (I Derivada).[Elaboración propia] 
 
 ## Discusión 
 ### Dominio del tiempo - Señal basal
