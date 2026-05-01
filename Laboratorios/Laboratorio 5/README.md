@@ -89,6 +89,14 @@ Se observa una frecuencia cardíaca media de 72.0 bpm, con variaciones moderadas
 
 **Figura 15:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG tras 4 minutos de buppers (III Derivada).[Elaboración propia]
 
+<img width="1152" height="727" alt="E3_hipoventilación_D1" src="https://github.com/user-attachments/assets/a668329f-eb62-45d7-b8d0-d541c959c91c" />
+
+**Figura 16:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG adquisión después de la hipoventilación (I Derivada).[Elaboración propia]
+
+<img width="1152" height="742" alt="E3_hipoventilación_D2" src="https://github.com/user-attachments/assets/a826b95c-765c-4b79-b610-b9476802a49a" />
+
+**Figura 17:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG adquisión después de la hipoventilación (III Derivada).[Elaboración propia]
+
 ## Discusión 
 
 ### Dominio del tiempo - Señal basal
