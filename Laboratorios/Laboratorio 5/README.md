@@ -28,8 +28,6 @@
 
 **Figura 1:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG obtenida en resposo (I Derivada).[Elaboración propia]
 
-Se obtuvo una frecuencia cardíaca media de 65.4 bpm con ondas definidas en P-QRS-T y baja variabilidad entre latidos. 
-
 <img width="1152" height="738" alt="E1señalbasal_D2" src="https://github.com/user-attachments/assets/91122ab8-436f-4fc1-abac-5d4bcd1ad91e" />
 
 **Figura 2:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG obtenida en resposo (II Derivada).[Elaboración propia]
@@ -45,6 +43,8 @@ Se observa una frecuencia cardíaca media de 72.0 bpm, con variaciones moderadas
 <img width="1151" height="742" alt="E1_hiper_D1_V1" src="https://github.com/user-attachments/assets/3df72e91-e94b-4c47-9c77-95c423eec70f" />
 
 **Figura 4:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la primera hiperventilación  (I Derivada).[Elaboración propia]
+
+Se obtuvo una frecuencia cardíaca media de 76.4 bpm con ondas definidas en P-QRS-T y baja variabilidad entre latidos.
 
 <img width="1153" height="735" alt="E1_hiper_D2_V1" src="https://github.com/user-attachments/assets/983c3a32-c089-4360-aadb-c8d8b0da4d71" />
 
