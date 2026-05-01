@@ -40,41 +40,53 @@ Se observa una frecuencia cardíaca media de 72.6 bpm y una mayor demarcación d
 
 Se observa una frecuencia cardíaca media de 72.0 bpm, con variaciones moderadas a lo largo del tiempo. El latido promediado presenta una definición clara de las ondas P, QRS y T, aunque con menor amplitud del complejo QRS en comparación con el procesamiento anterior. Se sugiere que tercera etapa de procesamiento mantiene la estabilidad en la detección de picos R, pero con una ligera reducción en las características de alta frecuencia de la señal. 
 
+<img width="1151" height="742" alt="E1_hiper_D1_V1" src="https://github.com/user-attachments/assets/3df72e91-e94b-4c47-9c77-95c423eec70f" />
+
+**Figura 4:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la primera hiperventilación  (I Derivada).[Elaboración propia]
+
+<img width="1153" height="735" alt="E1_hiper_D2_V1" src="https://github.com/user-attachments/assets/983c3a32-c089-4360-aadb-c8d8b0da4d71" />
+
+**Figura 5:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la primera hiperventilación  (II Derivada).[Elaboración propia]
+
+<img width="1152" height="757" alt="E1_hiper_D3_V1" src="https://github.com/user-attachments/assets/deec09a0-3202-4ea3-9dbd-31deb4b91d4c" />
+
+**Figura 6:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la primera hiperventilación  (III Derivada).[Elaboración propia]
+
 <img width="1153" height="756" alt="E1_hiper_D1" src="https://github.com/user-attachments/assets/22ab3696-4e7e-40c8-8627-b145e376e6ff" />
 
-**Figura 4:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la hiperventilación  (I Derivada).[Elaboración propia]
+**Figura 7:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la segunda hiperventilación  (I Derivada).[Elaboración propia]
 
 <img width="1155" height="760" alt="E1_hiper_D2" src="https://github.com/user-attachments/assets/a9dee4a9-f388-4c33-951f-7e3938b97264" />
 
-**Figura 5:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la hiperventilación  (II Derivada).[Elaboración propia]
+**Figura 8:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la segunda hiperventilación  (II Derivada).[Elaboración propia]
 
 <img width="1157" height="733" alt="E1_hiper_D3" src="https://github.com/user-attachments/assets/bc51a9a3-1ec8-47c4-82fa-edbeb34b5d14" />
 
-**Figura 6:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la hiperventilación   (III Derivada).[Elaboración propia]
+**Figura 9:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la segunda hiperventilación   (III Derivada).[Elaboración propia]
 
 <img width="1155" height="740" alt="E1_señalbasal_D1_final" src="https://github.com/user-attachments/assets/567caca0-cd32-495b-b9d0-999f69808b40" />
 
-**Figura 7:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG segundo reposo (I Derivada).[Elaboración propia]
+**Figura 10:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG segundo reposo (I Derivada).[Elaboración propia]
 
 <img width="1121" height="793" alt="E1_señalbasal_D2" src="https://github.com/user-attachments/assets/a3ff99bb-1485-49fe-8fa9-5c7870ff5d78" />
 
-**Figura 8:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG segundo reposo (II Derivada).[Elaboración propia]
+**Figura 11:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG segundo reposo (II Derivada).[Elaboración propia]
 
 <img width="1148" height="796" alt="E1_señalbasal_D3" src="https://github.com/user-attachments/assets/7e7ca61a-02ca-4720-a353-c1d93d434352" />
 
-**Figura 9:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG segundo reposo (III Derivada).[Elaboración propia]
+**Figura 12:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG segundo reposo (III Derivada).[Elaboración propia]
 
 <img width="1160" height="735" alt="E2_D1" src="https://github.com/user-attachments/assets/66d5f436-880e-487b-9db8-3014b1c7520c" />
 
-**Figura 10:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG tras 4 minutos de buppers (I Derivada).[Elaboración propia]
+**Figura 13:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG tras 4 minutos de buppers (I Derivada).[Elaboración propia]
 
 <img width="1152" height="722" alt="E2_D2" src="https://github.com/user-attachments/assets/deadc5ae-dbed-4314-99f3-64f6983198d6" />
 
-**Figura 11:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG tras 4 minutos de buppers (II Derivada).[Elaboración propia]
+**Figura 14:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG tras 4 minutos de buppers (II Derivada).[Elaboración propia]
 
 <img width="1152" height="728" alt="E2_D3" src="https://github.com/user-attachments/assets/110d6c6d-837d-4c8d-8b06-bc0cb87e2f69" />
 
-**Figura 12:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG tras 4 minutos de buppers (III Derivada).[Elaboración propia]
+**Figura 15:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG tras 4 minutos de buppers (III Derivada).[Elaboración propia]
 
 ## Discusión 
 
