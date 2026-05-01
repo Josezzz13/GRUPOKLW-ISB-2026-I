@@ -68,9 +68,12 @@
 
 <img width="1152" height="728" alt="E2_D3" src="https://github.com/user-attachments/assets/110d6c6d-837d-4c8d-8b06-bc0cb87e2f69" />
 
-
 **Figura 12:** ECG después de 4 min de buppers (III Derivada).[Elaboración propia]
 
 ## Discusión 
+
 ### Dominio del tiempo - Señal basal
 - De la primera gráfica al considerar el intervalo de 20 segundos (10 - 30 segundos en el muestreo de nuestra señal) obtenemos un conteo de 23 beats aproximadamente. Al hacer una multiplicación simple para obtener los 60 segundos (1 minuto), tenemos una cantidad de 69 bpm. Cumpliendo el rango en reposo de 60-100 bpm.
+
+
+## Referencias
