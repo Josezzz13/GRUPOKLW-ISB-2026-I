@@ -59,7 +59,7 @@ Se observa un curva regular QRS bien definidos y detección marcada de los picos
 
 **Figura 5:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la primera hiperventilación  (II Derivada).[Elaboración propia]
 
-Se observa, en comparación con la señal anterior, una menor dispersión en el promedio de los puntos característicos P, Q, S y T, lo que sugiere una mayor consistencia en la morfología del latido promedio. La frecuencia cardíaca se mantiene similar, con un valor medio de 76.4 bpm. Sin embargo, se presentan variaciones transitorias, alcanzando picos cercanos a 79 bpm en el primer segundo, menor que el anterior, y va descendiendo hasta aproximadamente 73 bpm alrededor de los 17 segundos, incrementandose nuevamente antes de llegar a los 20 segundos. 
+Se observa, en comparación con la señal anterior, una menor dispersión en el promedio de los puntos característicos P, Q, S y T, lo que sugiere una mayor consistencia en la morfología del latido promedio. La frecuencia cardíaca se mantiene similar, con un valor medio de 76.4 bpm. Sin embargo, se presentan variaciones transitorias, alcanzando picos cercanos a 79 bpm en el primer segundo, menor que el anterior, y va descendiendo hasta aproximadamente 73 bpm alrededor de los 17 segundos, incrementandose nuevamente antes de llegar a los 20 segundos. Esto indicaría que, antes de estabilizarse tras la hiperventilación, la frecuencia cardíaca presenta oscilaciones marcadas.
 
 <img width="1152" height="757" alt="E1_hiper_D3_V1" src="https://github.com/user-attachments/assets/deec09a0-3202-4ea3-9dbd-31deb4b91d4c" />
 
@@ -107,7 +107,7 @@ Se observa, en comparación con la señal anterior, una menor dispersión en el 
 
 **Figura 15:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG tras 4 minutos de buppers (III Derivada).[Elaboración propia]
 
-#### V. Señal ECG obtenida tras la hipoventilación
+#### VI. Señal ECG obtenida tras la hipoventilación
 
 <img width="1152" height="727" alt="E3_hipoventilación_D1" src="https://github.com/user-attachments/assets/a668329f-eb62-45d7-b8d0-d541c959c91c" />
 
