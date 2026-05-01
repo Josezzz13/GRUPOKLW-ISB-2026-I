@@ -1,5 +1,6 @@
 # Laboratorio 5: Adquisición de señal ECG con BITalino
 
+<img width="1514" height="573" alt="universidadperuanaCayetanoHeredia" src="https://github.com/user-attachments/assets/294153a6-16c6-40be-b47a-d5d1e62aee72" />
 
 [Discusión](#Discusión)
 
