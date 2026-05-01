@@ -35,6 +35,9 @@
 
 **Figura 1:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG obtenida en resposo (I Derivada).[Elaboración propia]
 
+Se observa una frecuencia cardíaca promedio de 65.4 bpm, con un picos de 69 bpm a los 2.4 segundos y pico menor de aproximadamnet 62 bpm de
+
+
 <img width="1152" height="738" alt="E1señalbasal_D2" src="https://github.com/user-attachments/assets/91122ab8-436f-4fc1-abac-5d4bcd1ad91e" />
 
 **Figura 2:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG obtenida en resposo (II Derivada).[Elaboración propia]
