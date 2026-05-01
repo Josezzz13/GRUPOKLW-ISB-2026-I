@@ -24,7 +24,7 @@
 ### Resultados:
 <img width="1155" height="742" alt="E1Señalbasal_D1" src="https://github.com/user-attachments/assets/403a6a8d-7287-4676-9148-bd274d25f9dc" />
 
-**Figura 1:** ECG en reposo inicial (I Derivada).[Elaboración propia] 
+**Figura 1:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos individuales. Se obtuvo una frecuencia cardíaca media de 65.4 bpm con morfología consistente de ondas P-QRS-T y baja variabilidad entre latidos. (I Derivada).[Elaboración propia] 
 
 <img width="1152" height="738" alt="E1señalbasal_D2" src="https://github.com/user-attachments/assets/91122ab8-436f-4fc1-abac-5d4bcd1ad91e" />
 
