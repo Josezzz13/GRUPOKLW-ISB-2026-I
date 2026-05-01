@@ -7,7 +7,7 @@
 ### Título
 
 **Integrantes:** 
-* Cárdenas Paniagua, Daniel Bagkdan *
+* Cárdenas Paniagua, Daniel Bagkdan 
 * Soto Casasola, Maria Celina
 * Zapata Castro, José Alonso
 * Eusquiza Rubiños, Matias Enrique 
