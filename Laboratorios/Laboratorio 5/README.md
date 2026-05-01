@@ -4,7 +4,7 @@
 
 <img width="850" height="300" alt="universidadperuanaCayetanoHeredia" src="https://github.com/user-attachments/assets/294153a6-16c6-40be-b47a-d5d1e62aee72" />
 
-### Título
+### Adquisición y análisis de señales electrocardiográficas (ECG) en tres derivaciones mediante electrodos superficiales con el sistema BITalino para la evaluación de la actividad cardíaca en estado basal, hiperventilación, actividad física e hipoventilación.
 
 **Integrantes:** 
 * Cárdenas Paniagua, Daniel Bagkdan 
