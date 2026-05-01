@@ -126,6 +126,31 @@ Se observa una señal ECG con picos R claramente definidos y un ritmo sinusal es
 
 ### Dominio del tiempo - Señal basal
 - De la primera gráfica al considerar el intervalo de 20 segundos (10 - 30 segundos en el muestreo de nuestra señal) obtenemos un conteo de 23 beats aproximadamente. Al hacer una multiplicación simple para obtener los 60 segundos (1 minuto), tenemos una cantidad de 69 bpm. Cumpliendo el rango en reposo de 60-100 bpm.
+## Discusión 
 
+### Dominio del tiempo - Señal basal
+- De la primera gráfica al considerar el intervalo de 20 segundos obtenemos un conteo de 23 beats aproximadamente. Al hacer una multiplicación simple para obtener los 60 segundos (1 minuto), tenemos una cantidad de 69 bpm. Cumpliendo el rango en reposo de 60-100 bpm. Esto se corrobora con la gráfica del promedio de latidos individuales donde es un valor de 65,4. Además, la frecuencia cardiáca presenta un valor mínimo de 62 hasta un valor máximo de 69 durante este tramo de tiempo.
+
+- Realizando este mismo análisis para las derivadas 2 y 3, notamos que el rango de pulsaciones por minuto se encuentra en el rango de 60 a 100 bpm. Esto concuerda con la información literaria de Guyton y Hall, donde se especifica que el valor de bpm se situa alrededor de 72 para adultos  en reposo y que el intervalo siempre es situado entre 60 - 100 bpm. [a]
+  
+- A partir de la 4, 5 y 6ta figura nos encontramos en Hiperventilación. Analizando la primera derivada denotamos que los picos R que han aparecido son 26 durante los 20 segundos, lo que nos daría una frecuencia de 78 bpm. Realizando la comparación con las otras derivadas durante esta actividad de hiperventilación, notamos que todas presentan el mismmo incremento mínimo en el promedio de bpm, donde el valor mínimo es de 68 (en la segunda derivada) y el máximo es de 80 bpm en las gráficas de Heart Rate.
+
+- Durante la segunda Hiperventilación (figuras 7, 8 y 9) observamos el mínimo patrón de aumento, sin embargo esto lleva a cuestionarnos porque ese aumento no es tan considerado como lo esperado en un estudio de hiperventilación inducida para adultos donde se menciona que el rango de este aumento se da entre 15 +/- 9 bpm para un rango de edad superior al de 55 años. [b] No obstante, el participante para la obtención de las señales es un deportista adulto joven de natación de 22 años, por lo que se espera su adaptamiento con un control adecuado de respiraciones por lo que este resultado no variara considerablemente como el presentado en el estudio.
+  
+- Realizando la segunda medición del reposo se obtuvieron los siguientes valores para el conteo de picos R en la primera gráfica de cada derivada: 23x3, 24x3 y 24x3. Esto nos da un conteo de 69, 72 y 72 bpm para la primera, segunda y tercera derivada respectivamente. Estos resultados tienen sentido, ya que tras haber realizado la hiperventilación y encontrarse en reposo, se espera la obtención de un valor en los intervalos de 64 - 80 bpm, siendo ambos números el mínimo valor obtenido durante el primer reposo y el máximo valor obtenido durante la hiperventilación (figuras 10,11 y 12)
+
+- Desde la figura 13 hasta la 15 comenzamos el análsis para actividad física. En la primera gráfica de D-I obtenemos un conteo de 46 x 3 = 138 picos R, esto nos indica que los bpm se encuentran alrededor de ese valor. Corroboramos la información calculada por la gráfica de Individual Heart Beats donde el promedio es de 138.9 bpm y este mismo procedimiento se verifica para la gráfica de Heart Rate, donde el rango de valores es de 136 a 143 bpm durante los 20 segundos. Realizamos el mismo procedimiento para las Derivadas II y III y observamos el mismo patrón, donde cada una tiene un promedio de 121 y 115 bpm. Este resultado concuerda con el concepto del libro Guyton y Hall que afirma que durante una actividad física la frecuencia cardiaca esperada debe encontrarse en valores superiores a 100 bpm. [a] 
+
+- MARIA 1
+- MARIA 2
+
+- La experiencia de laboratorio fue eficaz, se obtuvieron valores concordantes con literaturas fisiológicas e investigaciones científicas respecto al tema. Sin embargo, se presentaron ciertas limitaciones durante el desarrollo de las mediciones.
+  - La primera dificultad fue la conectividad del sensor bitalino con el software en la laptop para la tranmsisión de la data. Esto retrasaba la medición y a su vez, recaía en la pérdida de data como es observable en el caso de actividad física para la segunda derivada. Al tardar en realizar la conexión, el sujeto de prueba durante la espera estaba sometido al reposo, regularizando su frecuencia cardiaca y ocasionando la pérdida de esa data. Para compensarlo, fue sometido a otros 2 minutos extra de burpees y poder obtener la data para la 3ra derivada.
+  - La segunda limitación es la demora de colocación de sensores al cambio de derivadas, no es notable pero los primeros picos R no son identificados como sería el caso de la gráfica 9, ocasionando una pérdida de data no detectable a simple vista.
+  -  Agreguen alguna otra limitación uwu
 
 ## Referencias
+[a] Hall, J. E. (2021). Guyton and Hall Textbook of Medical Physiology (14th ed.). Elsevier
+[b] Hawkins SM, Guensch DP, Friedrich MG, Vinco G, Nadeshalingham G, White M, Mongeon FP, Hillier E, Teixeira T, Flewitt JA, Eberle B, Fischer K. Hyperventilation-induced heart rate response as a potential marker for cardiovascular disease. Sci Rep. 2019 Nov 29;9(1):17887. doi: 10.1038/s41598-019-54375-9. PMID: 31784617; PMCID: PMC6884614.
+[c] imagen xd --> https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates
+
