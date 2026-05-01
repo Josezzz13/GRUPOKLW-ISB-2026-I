@@ -7,6 +7,9 @@
 ### Título
 
 **Integrantes:** 
+
+
+ Fuentes Hurtado, Astrid Nayeli
  
 **2026-I**
 
