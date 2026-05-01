@@ -139,7 +139,9 @@ Se observa una señal ECG con picos R claramente definidos y un ritmo sinusal es
   
 - Realizando la segunda medición del reposo se obtuvieron los siguientes valores para el conteo de picos R en la primera gráfica de cada derivada: 23x3, 24x3 y 24x3. Esto nos da un conteo de 69, 72 y 72 bpm para la primera, segunda y tercera derivada respectivamente. Estos resultados tienen sentido, ya que tras haber realizado la hiperventilación y encontrarse en reposo, se espera la obtención de un valor en los intervalos de 64 - 80 bpm, siendo ambos números el mínimo valor obtenido durante el primer reposo y el máximo valor obtenido durante la hiperventilación (figuras 10,11 y 12)
 
-- Desde la figura 13 hasta la 15 comenzamos el análsis para actividad física. En la primera gráfica de D-I obtenemos un conteo de 46 x 3 = 138 picos R, esto nos indica que los bpm se encuentran alrededor de ese valor. Corroboramos la información calculada por la gráfica de Individual Heart Beats donde el promedio es de 138.9 bpm y este mismo procedimiento se verifica para la gráfica de Heart Rate, donde el rango de valores es de 136 a 143 bpm durante los 20 segundos. Realizamos el mismo procedimiento para las Derivadas II y III y observamos el mismo patrón, donde cada una tiene un promedio de 121 y 115 bpm. Este resultado concuerda con el concepto del libro Guyton y Hall que afirma que durante una actividad física la frecuencia cardiaca esperada debe encontrarse en valores superiores a 100 bpm. [a] 
+- Desde la figura 13 hasta la 15 comenzamos el análsis para actividad física. En la primera gráfica de D-I obtenemos un conteo de 46 x 3 = 138 picos R, esto nos indica que los bpm se encuentran alrededor de ese valor. Corroboramos la información calculada por la gráfica de Individual Heart Beats donde el promedio es de 138.9 bpm y este mismo procedimiento se verifica para la gráfica de Heart Rate, donde el rango de valores es de 136 a 143 bpm durante los 20 segundos. Realizamos el mismo procedimiento para las Derivadas II y III y observamos el mismo patrón, donde cada una tiene un promedio de 121 y 115 bpm. Este resultado concuerda con el concepto del libro Guyton y Hall que afirma que durante una actividad física la frecuencia cardiaca esperada debe encontrarse en valores superiores a 100 bpm. [a]
+
+- En general, durante la actividad física el electrocardiograma evidencia un incremento claro en la frecuencia de los latidos cardiacos. Este comportamiento refleja una respuesta fisiológica normal mediada por la activación del sistema nervioso simpático, la cual induce un aumento de la frecuencia cardiaca para cubrir las mayores demandas metabólicas del organismo. [d]
 
 - MARIA 1
 - MARIA 2
@@ -156,3 +158,4 @@ Se observa una señal ECG con picos R claramente definidos y un ritmo sinusal es
 
 - [c] imagen xd --> https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates
 
+- [d] J. Naranjo-Orellana et al., "Cardiovascular response to exercise: Integrative physiology insights," Frontiers in Physiology, vol. 12, p. 667116, 2021, doi: 10.3389/fphys.2021.667116.
