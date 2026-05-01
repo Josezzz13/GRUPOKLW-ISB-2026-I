@@ -35,20 +35,20 @@
 
 **Figura 1:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG obtenida en resposo (I Derivada).[Elaboración propia]
 
-Se observa una frecuencia cardíaca promedio de 65.4 bpm, con un picos de 69 bpm a los 2.4 segundos y pico menor de aproximadamnet 62 bpm de
+Se observa una frecuencia cardíaca promedio de 65.4 bpm, con un picos de 69 bpm a los 2.4 segundos y pico menor de aproximadamente 62 bpm manteniendose constante entre los 4.7 s y los 5.2 s. Presenta picos R definidos con amplitudes entre 0.1 a 0.2.
 
 
 <img width="1152" height="738" alt="E1señalbasal_D2" src="https://github.com/user-attachments/assets/91122ab8-436f-4fc1-abac-5d4bcd1ad91e" />
 
 **Figura 2:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG obtenida en resposo (II Derivada).[Elaboración propia]
 
-Se observa una frecuencia cardíaca media de 72.6 bpm y una mayor demarcación de la curva QRS respecto al análisis previo, lo que mejora la identificación de picos R y la curva producida por P-QRS-T.
+Se observa una frecuencia cardíaca media de 72.6 bpm y una mayor demarcación de la curva QRS respecto al análisis previo, lo que mejora la identificación de picos R presentando una amplitud entre 0.5 a 0.6, y la curva producida por P-QRS-T.
 
 <img width="1145" height="761" alt="E1señalbasal_D3" src="https://github.com/user-attachments/assets/d7adf25f-c579-4ed7-a034-ed6b41a56358" />
 
 **Figura 3:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG obtenida en resposo (III Derivada).[Elaboración propia]
 
-Se observa una frecuencia cardíaca media de 72.0 bpm, con variaciones moderadas a lo largo del tiempo. El latido promediado presenta una definición clara de las ondas P, QRS y T, aunque con menor amplitud del complejo QRS en comparación con el procesamiento anterior. Se sugiere que tercera etapa de procesamiento mantiene la estabilidad en la detección de picos R, pero con una ligera reducción en las características de alta frecuencia de la señal. 
+Se observa una frecuencia cardíaca media de 72.0 bpm, con variaciones moderadas a lo largo del tiempo. El latido promediado presenta una definición clara de las ondas P, QRS y T, aunque con menor amplitud del complejo QRS en comparación con el procesamiento anterior. Se sugiere que tercera etapa de procesamiento mantiene la estabilidad en la detección de picos R con amplitud menor a la de la segunda derivada pero mayor a la primera y una ligera reducción en las características de alta frecuencia de la señal. 
 
 #### II. Señal ECG obtenida después de la primera hiperventilación
 
@@ -67,6 +67,8 @@ Se observa, en comparación con la señal anterior, una menor dispersión en el 
 <img width="1152" height="757" alt="E1_hiper_D3_V1" src="https://github.com/user-attachments/assets/deec09a0-3202-4ea3-9dbd-31deb4b91d4c" />
 
 **Figura 6:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la primera hiperventilación  (III Derivada).[Elaboración propia]
+
+Se observa una señal ECG con picos R claramente definidos y un ritmo sinusal estable. La frecuencia cardíaca presenta un promedio de 74.5 bpm, con variaciones leves en un rango aproximado de 72.5 a 76.8 bpm, evidenciando una menor variabilidad en comparación con la fase previa. Asimismo, la morfología del latido promedio muestra una menor dispersión en las ondas P, Q, S y T, indicando una mayor consistencia en la conducción eléctrica cardíaca. Se sugiere una fase de estabilización tras la hiperventilación, caracterizada por la recuperación del equilibrio del sistema nervioso autónomo y la disminución de la influencia simpática.
 
 #### III. Señal ECG obtenida después de la segunda hiperventilación tras 2 minutos de descanso de la primera
 
