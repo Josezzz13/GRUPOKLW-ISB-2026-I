@@ -23,8 +23,14 @@
 [Metodología](#Metodología)
 ## Metodología
 
+
+
+
+
 ### Resultados:
 <img width="1155" height="742" alt="E1Señalbasal_D1" src="https://github.com/user-attachments/assets/403a6a8d-7287-4676-9148-bd274d25f9dc" />
+
+#### Primera señal basal obtenida en reposo
 
 **Figura 1:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG obtenida en resposo (I Derivada).[Elaboración propia]
 
@@ -40,15 +46,19 @@ Se observa una frecuencia cardíaca media de 72.6 bpm y una mayor demarcación d
 
 Se observa una frecuencia cardíaca media de 72.0 bpm, con variaciones moderadas a lo largo del tiempo. El latido promediado presenta una definición clara de las ondas P, QRS y T, aunque con menor amplitud del complejo QRS en comparación con el procesamiento anterior. Se sugiere que tercera etapa de procesamiento mantiene la estabilidad en la detección de picos R, pero con una ligera reducción en las características de alta frecuencia de la señal. 
 
+#### Señal ECG obtenida después de la hiperventilación
+
 <img width="1151" height="742" alt="E1_hiper_D1_V1" src="https://github.com/user-attachments/assets/3df72e91-e94b-4c47-9c77-95c423eec70f" />
 
 **Figura 4:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la primera hiperventilación  (I Derivada).[Elaboración propia]
 
-Se obtuvo una frecuencia cardíaca media de 76.4 bpm con ondas definidas en P-QRS-T y baja variabilidad entre latidos.
+Se observa un curva regular QRS bien definidos y detección marcada de los picos R. Las ondas P,Q,R,S y T son claramente identificables, sin alteraciones en la conducción intraventricular. La frecuencia cardíaca media es de 76.4 bpm con oscilaciones entre leves y moderadas, presenta picos de bpm mayores a 82 en aproximadamente 1s reduciendose notablemente con el tiempo, lo que nos da entender variabilidad entre sinusoides por respiración aumentada gracias a la hiperventilación.
 
 <img width="1153" height="735" alt="E1_hiper_D2_V1" src="https://github.com/user-attachments/assets/983c3a32-c089-4360-aadb-c8d8b0da4d71" />
 
 **Figura 5:** Procesamiento de señal ECG con detección de picos R, cálculo de frecuencia cardíaca y promedio de latidos - ECG después de la primera hiperventilación  (II Derivada).[Elaboración propia]
+
+Se observa, en comparación con la señal anterior, una menor dispersión en el promedio de los puntos característicos P, Q, S y T, lo que sugiere una mayor consistencia en la morfología del latido promedio. La frecuencia cardíaca se mantiene similar, con un valor medio de 76.4 bpm. Sin embargo, se presentan variaciones transitorias, alcanzando picos cercanos a 79 bpm en el primer segundo, menor que el anterior, y va descendiendo hasta aproximadamente 73 bpm alrededor de los 17 segundos, incrementandose nuevamente antes de llegar a los 20 segundos. 
 
 <img width="1152" height="757" alt="E1_hiper_D3_V1" src="https://github.com/user-attachments/assets/deec09a0-3202-4ea3-9dbd-31deb4b91d4c" />
 
