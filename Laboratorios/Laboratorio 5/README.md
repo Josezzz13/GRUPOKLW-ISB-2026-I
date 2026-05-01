@@ -19,6 +19,10 @@
 
 [Introducción](#Introducción)
 ## Introducción
+La electrocardiografía (ECG) es una técnica no invasiva que registra la actividad eléctrica del corazón mediante electrodos colocados sobre la superficie corporal. Esta actividad es originado en el nodo sinoauricular y se propaga hacia el nodo auriculoventricular,el haz de His y el sistema de Purkinje,lo que permite la activación coordinada del miocardio ventricular.[1] En la señal ECG se reconocen los componentes característicos del ciclo cardíaco, principalmente la onda P, el complejo QRS y la onda T, asociados respectivamente con la despolarización auricular, la despolarización ventricular y la repolarización ventricular.[2] 
+Para el electrocardiografía (ECG),la banda de frecuencias significativas se encuentra entre los 0.05 Hz y los 150 Hz.[3]
+Para esta práctica se utilizó el sistema BITalino,junto a su sensor de ECG y unos sets de electrodos de superficies,para el registro de 3 derivaciones bipolares de Einthoven,las derivaciones I, II y III nos permiten observar la actividad eléctrica cardíaca desde diferentes orientaciones del plano frontal.[4]  
+El experimento que realizamos se consideró el estado basal, hiperventilación, actividad física e hipoventilación con el fin de observar cómo cambian la morfología y la estabilidad de la señal ante distintas condiciones fisiológicas,debido a que durante el ejercicio la frecuencia cardíaca aumenta en respuesta a que necesita satisfacer una mayor demanda metabólica, por lo que esta condición resulta útil para evaluar la respuesta cardiovascular registrada por ECG [5]
 
 [Metodología](#Metodología)
 ## Metodología
