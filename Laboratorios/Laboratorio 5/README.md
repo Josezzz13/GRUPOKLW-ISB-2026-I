@@ -3,7 +3,6 @@
 # Laboratorio 5:
 
 <img width="850" height="300" alt="universidadperuanaCayetanoHeredia" src="https://github.com/user-attachments/assets/294153a6-16c6-40be-b47a-d5d1e62aee72" />
-<img width="1514" height="573" alt="universidadperuanaCayetanoHeredia" src="https://github.com/user-attachments/assets/d041d411-9b25-4cdf-8b38-fb63db405940" />
 
 ### Adquisición y análisis de señales electrocardiográficas (ECG) en tres derivaciones mediante electrodos superficiales con el sistema BITalino para la evaluación de la actividad cardíaca en estado basal, hiperventilación, actividad física e hipoventilación.
 
