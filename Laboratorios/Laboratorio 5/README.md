@@ -190,16 +190,14 @@ Se observa una señal ECG con picos R claramente definidos y un ritmo sinusal es
   - Las mediciones en las distintas derivadas se realizan inmediatamente después una de otra, por lo que se pierde el efecto inmediato de los ejercicios realizados en el período de procesamiento de datos, cambio de la posición de los electrodos y establecimiento de conexión para medir una derivada diferente.
 
 ## Referencias
-[1]Y. Sattar y L. Chhabra, “Electrocardiogram”, en StatPearls, Treasure Island (FL): StatPearls Publishing, 2026.
-[2] E. A. Ashley y J. Niebauer, Conquering the ECG. Londres, Inglaterra: REMEDICA
-[3]L. G. Tereshchenko y M. E. Josephson, “Frequency content and characteristics of ventricular conduction”, J. Electrocardiol., vol. 48, núm. 6, pp. 933–937, 2015
-[4]EXPERIMENTAL GUIDES TO MEET y L. Y. Biosignals, “BITalino (r)evolution Lab Guide”, Pluxbiosignals.com. [En línea]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf.
-[5]A. Akulwar, “Comparing heart rate recovery after aerobic vs. Anaerobic exercise”, Int. J. Med. Biomed. Stud., vol. 2, núm. 3, 2018
-[6] Plux Biosignals, “BITalino (r)evolution Lab Guide: Electrocardiography (ECG) – Exploring Cardiac Signals at the Skin Surface,” [En línea]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf
-[7] Hall, J. E. (2021). Guyton and Hall Textbook of Medical Physiology (14th ed.). Elsevier
-
-[8] Hawkins SM, Guensch DP, Friedrich MG, Vinco G, Nadeshalingham G, White M, Mongeon FP, Hillier E, Teixeira T, Flewitt JA, Eberle B, Fischer K. Hyperventilation-induced heart rate response as a potential marker for cardiovascular disease. Sci Rep. 2019 Nov 29;9(1):17887. doi: 10.1038/s41598-019-54375-9. PMID: 31784617; PMCID: PMC6884614.
-
-[9] A. R. Bain, “Assessment of respiratory effort with EMG extracted from ECG recordings during prolonged breath holds: Insights into obstructive apnea and extreme physiology,” Physiological Reports, vol. 9, no. 10, art. no. e14873, May 2021. doi: 10.14814/phy2.14873.
-[10] X. Bao, E. N. Kamavuako, and Y. Deng, “Estimation of the respiratory rate from localised ECG at different auscultation sites,” Sensors, vol. 21, no. 1, art. no. 78, Dec. 2020. doi: 10.3390/s21010078.
-[11] J. He et al., “Exercise-induced changes in R wave amplitude and heart rate in normal subjects,” Journal of Electrocardiology, vol. 28, no. 2, pp. 99–106, Apr. 1995. doi: 10.1016/s0022-0736(05)80280-8.
+-[1]Y. Sattar y L. Chhabra, “Electrocardiogram”, en StatPearls, Treasure Island (FL): StatPearls Publishing, 2026.
+-[2] E. A. Ashley y J. Niebauer, Conquering the ECG. Londres, Inglaterra: REMEDICA
+-[3]L. G. Tereshchenko y M. E. Josephson, “Frequency content and characteristics of ventricular conduction”, J. Electrocardiol., vol. 48, núm. 6, pp. 933–937, 2015
+-[4]EXPERIMENTAL GUIDES TO MEET y L. Y. Biosignals, “BITalino (r)evolution Lab Guide”, Pluxbiosignals.com. [En línea]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf.
+-[5]A. Akulwar, “Comparing heart rate recovery after aerobic vs. Anaerobic exercise”, Int. J. Med. Biomed. Stud., vol. 2, núm. 3, 2018
+-[6] Plux Biosignals, “BITalino (r)evolution Lab Guide: Electrocardiography (ECG) – Exploring Cardiac Signals at the Skin Surface,” [En línea]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf
+-[7] Hall, J. E. (2021). Guyton and Hall Textbook of Medical Physiology (14th ed.). Elsevier
+-[8] Hawkins SM, Guensch DP, Friedrich MG, Vinco G, Nadeshalingham G, White M, Mongeon FP, Hillier E, Teixeira T, Flewitt JA, Eberle B, Fischer K. Hyperventilation-induced heart rate response as a potential marker for cardiovascular disease. Sci Rep. 2019 Nov 29;9(1):17887. doi: 10.1038/s41598-019-54375-9. PMID: 31784617; PMCID: PMC6884614.
+-[9] A. R. Bain, “Assessment of respiratory effort with EMG extracted from ECG recordings during prolonged breath holds: Insights into obstructive apnea and extreme physiology,” Physiological Reports, vol. 9, no. 10, art. no. e14873, May 2021. doi: 10.14814/phy2.14873.
+-[10] X. Bao, E. N. Kamavuako, and Y. Deng, “Estimation of the respiratory rate from localised ECG at different auscultation sites,” Sensors, vol. 21, no. 1, art. no. 78, Dec. 2020. doi: 10.3390/s21010078.
+-[11] J. He et al., “Exercise-induced changes in R wave amplitude and heart rate in normal subjects,” Journal of Electrocardiology, vol. 28, no. 2, pp. 99–106, Apr. 1995. doi: 10.1016/s0022-0736(05)80280-8.
