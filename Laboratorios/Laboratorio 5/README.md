@@ -27,10 +27,29 @@ El experimento que realizamos se consideró el estado basal, hiperventilación, 
 
 [Metodología](#Metodología)
 ## Metodología
+Con el objetivo de llevar a cabo la adquisición y el posterior procesamiento de señales electrocardiográficas (ECG) bajo diferentes condiciones fisiológicas, se implementó un protocolo experimental estructurado que permitió analizar la variabilidad de la señal en distintos escenarios. Para la ejecución de este procedimiento, se emplearon los siguientes materiales:
+- Placa del sistema BITalino
+- Sensor integrado de electrocardiografía (ECG)
+- Electrodos desechables
+- Computadora portátil con la aplicación OpenSignals instalada
+- Cronómetro de un dispositivo móvil
+
+Como etapa inicial del procedimiento, se realizó la identificación y localización de los puntos anatómicos adecuados para la colocación de los electrodos. En este caso, se utilizaron tres electrodos con el fin de obtener las derivaciones I, II y III del ECG, las cuales corresponden a configuraciones bipolares estándar ampliamente utilizadas en el análisis básico de la actividad eléctrica cardíaca. Para asegurar una correcta ubicación, se tomó como referencia el esquema proporcionado en la guía oficial del sistema BITalino, el cual ilustra tanto la disposición anatómica de los electrodos sobre el cuerpo del sujeto como la forma en que estos deben conectarse al sensor integrado y a la placa del sistema:
 
 
+Una vez establecidos los puntos de colocación, se procedió a diferenciar las conexiones correspondientes entre el sensor y cada uno de los electrodos. Este paso resulta fundamental, ya que una conexión incorrecta puede alterar significativamente la morfología de la señal ECG obtenida. Para ello, se utilizó un segundo esquema de referencia, también proporcionado por la guía del sistema, en el cual se especifica claramente la polaridad de las conexiones. En dicho esquema, los símbolos positivo (+) y negativo (−) indican la orientación correcta de los terminales del sensor en cada electrodo, mientras que el tercer electrodo cumple la función de referencia o tierra, contribuyendo a estabilizar la medición y reducir el ruido en la señal: 
 
 
+Posteriormente, una vez verificadas todas las conexiones y aseguradas las condiciones adecuadas para la adquisición de la señal (como buen contacto de los electrodos y correcta configuración del software OpenSignals), se dio inicio al registro de datos. Las mediciones se realizaron en una serie de escenarios diseñados para inducir diferentes estados fisiológicos en el sujeto de prueba, con el propósito de observar cómo estos influyen en las características de la señal ECG, tales como la frecuencia cardíaca, la amplitud y la morfología de las ondas.
+Los escenarios experimentales considerados fueron los siguientes:
+1. Medición basal en reposo: Se registró la señal ECG correspondiente a las derivaciones I, II y III mientras el sujeto se encontraba en estado de reposo absoluto, sin realizar ningún tipo de esfuerzo físico ni alteración respiratoria. 
+2. Primera medición tras hiperventilación: Se realizó un registro de la señal ECG luego de que el sujeto efectuara entre 5 y 6 ciclos completos de respiración profunda (inhalación y exhalación), generando un estado de hiperventilación. 
+- Posteriormente, se estableció un periodo de descanso de 2 minutos para permitir la recuperación del sujeto. 
+3. Segunda medición tras hiperventilación: Se repitió el procedimiento anterior de hiperventilación (5–6 ciclos respiratorios profundos), seguido de un nuevo registro de la señal ECG. 
+- Se consideró nuevamente un tiempo de descanso de 2 minutos antes de continuar con el siguiente escenario. 
+4. Medición posterior a ejercicio físico: Se registró la señal ECG después de que el sujeto realizara actividad física intensa durante 4 minutos, específicamente mediante la ejecución de burpees. 
+- Luego del ejercicio, se otorgó un periodo de recuperación de 8 minutos antes de la siguiente medición. 
+5. Medición tras hipoventilación (apnea voluntaria): Finalmente, se realizó un registro de la señal ECG después de que el sujeto mantuviera la respiración durante el mayor tiempo posible. 
 
 ### Resultados:
 
