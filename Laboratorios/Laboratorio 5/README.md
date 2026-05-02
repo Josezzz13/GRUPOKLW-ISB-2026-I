@@ -183,13 +183,16 @@ Se observa una señal ECG con picos R claramente definidos y un ritmo sinusal es
 
 - En general, durante la actividad física el electrocardiograma evidencia un incremento claro en la frecuencia de los latidos cardiacos. Este comportamiento refleja una respuesta fisiológica normal mediada por la activación del sistema nervioso simpático, la cual induce un aumento de la frecuencia cardiaca para cubrir las mayores demandas metabólicas del organismo. [d]
 
-- MARIA 1
-- MARIA 2
+- Las figuras 16 y 17 registran la fase de recuperación post-apnea, en las que se observa el primer signo característico de apnea voluntaria anteriormente documentado [m1]: la bradicardia (disminución de frecuencia cardíaca), ya que, tomando como referencia las últimas mediciones del ejercicio anterior, la frecuencia cardíaca disminuye de 139.6 y 115.5 latidos por minuto a 108.7 y 103.8 latidos por minuto en la I y III derivada respectivamente.
 
+- Se observa una reducción de la amplitud del pico R en el registro post-hipoventilación en la derivada I (fgura 16) respecto a previo al ejercicio (figura 15), debido al desplazamiento del corazón: durante la inspiración, el llenado de pulmones desplaza el ápex cardíaco hacia el abdomen y, durante la espiración, el vaciamiento pulmonar comprime el corazón hacia el esternón [m2]. Asimismo, se observa la reducción de la amplitud R post-ejercicio y de la frecuencia cardíaca en la transición al reposo que es consistente con lo hallado anteriormente por Imai et al. [m3].
+
+- Se observa una reducción de la amplitud promedio de la onda T en la medición de la I derivada, esto puede deberse a que la hipocapnia (disminución de la presión parcial de dióxido de carbono en la sangre arterial) 
 - La experiencia de laboratorio fue eficaz, se obtuvieron valores concordantes con literaturas fisiológicas e investigaciones científicas respecto al tema. Sin embargo, se presentaron ciertas limitaciones durante el desarrollo de las mediciones.
+
   - La primera dificultad fue la conectividad del sensor bitalino con el software en la laptop para la tranmsisión de la data. Esto retrasaba la medición y a su vez, recaía en la pérdida de data como es observable en el caso de actividad física para la segunda derivada. Al tardar en realizar la conexión, el sujeto de prueba durante la espera estaba sometido al reposo, regularizando su frecuencia cardiaca y ocasionando la pérdida de esa data. Para compensarlo, fue sometido a otros 2 minutos extra de burpees y poder obtener la data para la 3ra derivada.
   - La segunda limitación es la demora de colocación de sensores al cambio de derivadas, no es notable pero los primeros picos R no son identificados como sería el caso de la gráfica 9, ocasionando una pérdida de data no detectable a simple vista.
-  -  Agreguen alguna otra limitación uwu
+  - Las mediciones en las distintas derivadas se realizan inmediatamente después una de otra, por lo que se pierde el efecto inmediato de los ejercicios realizados en el período de procesamiento de datos, cambio de la posición de los electrodos y establecimiento de conexión para medir una derivada diferente.
 
 ## Referencias
 - [1]Y. Sattar y L. Chhabra, “Electrocardiogram”, en StatPearls, Treasure Island (FL): StatPearls Publishing, 2026.
@@ -205,3 +208,6 @@ Se observa una señal ECG con picos R claramente definidos y un ritmo sinusal es
 - [c] imagen xd --> https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates
 
 - [d] J. Naranjo-Orellana et al., "Cardiovascular response to exercise: Integrative physiology insights," Frontiers in Physiology, vol. 12, p. 667116, 2021, doi: 10.3389/fphys.2021.667116.
+- [m1] M. Stewart and A. R. Bain, “Assessment of respiratory effort with EMG extracted from ECG recordings during prolonged breath holds: Insights into obstructive apnea and extreme physiology,” Physiological Reports, vol. 9, no. 10, art. no. e14873, May 2021. doi: 10.14814/phy2.14873.
+- [m2] X. Bao, E. N. Kamavuako, and Y. Deng, “Estimation of the respiratory rate from localised ECG at different auscultation sites,” Sensors, vol. 21, no. 1, art. no. 78, Dec. 2020. doi: 10.3390/s21010078.
+- [m3] J. He et al., “Exercise-induced changes in R wave amplitude and heart rate in normal subjects,” Journal of Electrocardiology, vol. 28, no. 2, pp. 99–106, Apr. 1995. doi: 10.1016/s0022-0736(05)80280-8.
