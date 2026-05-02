@@ -190,9 +190,9 @@ Se observa una señal ECG con picos R claramente definidos y un ritmo sinusal es
   - Las mediciones en las distintas derivadas se realizan inmediatamente después una de otra, por lo que se pierde el efecto inmediato de los ejercicios realizados en el período de procesamiento de datos, cambio de la posición de los electrodos y establecimiento de conexión para medir una derivada diferente.
 
 ## Referencias
--[1]Y. Sattar y L. Chhabra, “Electrocardiogram”, en StatPearls, Treasure Island (FL): StatPearls Publishing, 2026.
--[2] E. A. Ashley y J. Niebauer, Conquering the ECG. Londres, Inglaterra: REMEDICA
--[3]L. G. Tereshchenko y M. E. Josephson, “Frequency content and characteristics of ventricular conduction”, J. Electrocardiol., vol. 48, núm. 6, pp. 933–937, 2015
+ -[1]Y. Sattar y L. Chhabra, “Electrocardiogram”, en StatPearls, Treasure Island (FL): StatPearls Publishing, 2026.
+ -[2] E. A. Ashley y J. Niebauer, Conquering the ECG. Londres, Inglaterra: REMEDICA
+ -[3]L. G. Tereshchenko y M. E. Josephson, “Frequency content and characteristics of ventricular conduction”, J. Electrocardiol., vol. 48, núm. 6, pp. 933–937, 2015
 -[4]EXPERIMENTAL GUIDES TO MEET y L. Y. Biosignals, “BITalino (r)evolution Lab Guide”, Pluxbiosignals.com. [En línea]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf.
 -[5]A. Akulwar, “Comparing heart rate recovery after aerobic vs. Anaerobic exercise”, Int. J. Med. Biomed. Stud., vol. 2, núm. 3, 2018
 -[6] Plux Biosignals, “BITalino (r)evolution Lab Guide: Electrocardiography (ECG) – Exploring Cardiac Signals at the Skin Surface,” [En línea]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf
