@@ -168,7 +168,6 @@ Se observa una señal ECG con picos R claramente definidos y un ritmo sinusal es
 - De la primera gráfica al considerar el intervalo de 20 segundos (10 - 30 segundos en el muestreo de nuestra señal) obtenemos un conteo de 23 beats aproximadamente. Al hacer una multiplicación simple para obtener los 60 segundos (1 minuto), tenemos una cantidad de 69 bpm. Cumpliendo el rango en reposo de 60-100 bpm.
 ## Discusión 
 
-### Dominio del tiempo - Señal basal
 - De la primera gráfica al considerar el intervalo de 20 segundos obtenemos un conteo de 23 beats aproximadamente. Al hacer una multiplicación simple para obtener los 60 segundos (1 minuto), tenemos una cantidad de 69 bpm. Cumpliendo el rango en reposo de 60-100 bpm. Esto se corrobora con la gráfica del promedio de latidos individuales donde es un valor de 65,4. Además, la frecuencia cardiáca presenta un valor mínimo de 62 hasta un valor máximo de 69 durante este tramo de tiempo.
 
 - Realizando este mismo análisis para las derivadas 2 y 3, notamos que el rango de pulsaciones por minuto se encuentra en el rango de 60 a 100 bpm. Esto concuerda con la información literaria de Guyton y Hall, donde se especifica que el valor de bpm se situa alrededor de 72 para adultos  en reposo y que el intervalo siempre es situado entre 60 - 100 bpm. [a]
