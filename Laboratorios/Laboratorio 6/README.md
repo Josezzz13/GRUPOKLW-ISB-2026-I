@@ -3,7 +3,9 @@ La señal de electromiografía de superficie (sEMG) presenta su contenido de fre
 Para mitigar estos efectos,se emplea un filtro pasa-banda tipo Butterworth,con frecuencias de corte entre 20 Hz y 450 Hz.Este filtro nos ayuda a eliminar tanto las componentes de baja frecuencia como las de alta frecuencia, conservando únicamente la banda de interés.
 El filtro Butterworth su principal caracteristica es tener una respuesta en frecuencia plana en la banda de paso (bajo grado de oscilaciones en la banda de paso), lo que evita distorsionar la amplitud de la señal, siendo especialmente útil en el análisis de la señales musculares [1]
 
-
+## Filtro 2: Notch (Rechaza-banda)
+Para la adquision de señales sEMG, ECG y EEG es común la presencia de interferencia de la red eléctrica,la cual introduce una componente sinusoidal 60 Hz, si hablamos del territorio peruano [1].
+Para eliminar este tipo de ruido, se utiliza un filtro notch (rechaza-banda),diseñado para atenuar una banda muy estrecha de frecuencias centradas en 60 Hz. Este filtro permite suprimir la interferencia eléctrica sin afectar significativamente el resto del contenido de espectros de la señal biomédica.
 
 
 
