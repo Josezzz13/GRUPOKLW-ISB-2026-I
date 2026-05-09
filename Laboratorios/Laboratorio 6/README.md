@@ -22,6 +22,11 @@ El filtro Butterworth su principal caracteristica es tener una respuesta en frec
 
 ### Señales ECG:
 
+#### Pasa altos
+Para la atenuación de ondas atribuibles a movimientos respiratorios periódicos, que regularmente se encuentran entre 0.1 Hz a 0.2 Hz, por ejemplo, si se dan 15 respiraciones por min producen un ciclo de 4 segundos y un componente fundamental de 0,25 Hz, caso que llega a intervenir en la segmentacion de la onda ST. Como las señales ECG presentan un rango de señal util de entre 0.5 Hz a 150 Hz, por ello, se realiza regularmente filtros pasa altos con frecuencia de corte de 0. 25 Hz. La filtración provoca atenuación en respuesta de amplitud, disminución de la amplitud pico a pico de la onda sinusoidal, y cambios de fase, desplazamiento de fase de las ondas que afectarán a uno u otros componentes llegan has 10 veces el valor de corte; el estudio menciona que si bien llega a afectar a la frecuencia de 0.5 Hz esta en mínima y solo interfiere en la amplitud del primer armónico y en el desfase del 5to y 6to armónico hasta aproximadamente 5 Hz [eeg1].
+
+Por otro lado, los filtros de paso alto de 0.05 Hz producen armónicos de desplazamiento de fase de hasta aproximadamente 0.5 Hz, un rango en el que no existen señales bioeléctricas intrínsecas y, por lo tanto, la forma del segmento ST permanece inalterada, el primer armónico se identifico en 0,9 Hz [ecg1].
+
 ### Señales EEG:
 
 Es una prueba que mide la actividad eléctrica del cerebro, permite detectar cambios en la actividad cerebral que podrían ayudar a diagnosticar afecciones cerebrales, especialmente epilepsia u otras afecciones afines. También puede servir para confirmar la muerte cerebral en alguien que se encuentra en estado de coma[eeg1].
@@ -58,6 +63,7 @@ Para eliminar este tipo de ruido, se utiliza un filtro notch (rechaza-banda),dis
 ### Bibliografia 
 [1] Polachan, K., Chatterjee, B., Weigand, S., & Sen, S. (2021). Human Body-Electrode Interfaces for Wide-Frequency Sensing and Communication: A Review. Nanomaterials (Basel, Switzerland), 11(8), 2152. https://doi.org/10.3390/nano11082152
 [2] D. Pradon, L. Tong, C. Chalitsios, y N. Roche, “Development of surface EMG for gait analysis and rehabilitation of hemiparetic patients”, Sensors (Basel), vol. 24, núm. 18, p. 5954, 2024.
+[ecg1] Buendía-Fuentes, F., Arnau-Vives, M. A., Arnau-Vives, A., Jiménez-Jiménez, Y., Rueda-Soriano, J., Zorio-Grima, E., Osa-Sáez, A., Martínez-Dolz, L. V., Almenar-Bonet, L., & Palencia-Pérez, M. A. (2012). High-Bandpass Filters in Electrocardiography: Source of Error in the Interpretation of the ST Segment. ISRN cardiology, 2012, 706217. https://doi.org/10.5402/2012/706217
 [eeg1]Mayo Clinic Staff, “Electroencefalografía (EEG),” Mayo Clinic, Sep. 18, 2024. [En línea]. Disponible en:https://www.mayoclinic.org/es/tests-procedures/eeg/about/pac-20393875.[Accedido: 08-may-2026].
 [eeg2] C. Novo-Olivas, L. Gutiérrez y J. Bribiesca, “Mapeo Electroencefalográfico y Neurofeedback,” en Aproximaciones al estudio de la neurociencia del comportamiento, M. A. Guevara Pérez, M. Arteaga Silva, A. Contreras Gómez y M. Hernández González, Eds. Guerrero, México: Universidad Autónoma de Guerrero, 2010, cap. XIII, pp. 371–412, ISBN: 978-970-764-911-8.
 [eeg3]Yilmaz, G., Ungan, P., Sebik, O., Uginčius, P., & Türker, K. S. (2014). Interference of tonic muscle activity on the EEG: a single motor unit study. Frontiers in human neuroscience, 8, 504. https://doi.org/10.3389/fnhum.2014.00504
