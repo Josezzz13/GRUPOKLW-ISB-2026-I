@@ -49,8 +49,6 @@ Para la identificación de artefactos como el parpadéo y voluntarios como la ma
 
 El estudio menciona que tras la obtención de la señal EEG limpia, se imtrodujeron señales que contenian ruidos por artefactos como parpadéos y masticación, para luego realizar los filtros paso altos y paso bajos, en ese respectivo orden, obteniendo la reconstrucción de la señal inicial.
 
-#### FALTAN 2
-
 ### Generales:
 
 #### Notch (Rechaza-banda)
