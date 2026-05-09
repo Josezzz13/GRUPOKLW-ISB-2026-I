@@ -1,4 +1,4 @@
-<img width="300" height="200" alt="hq720" src="https://github.com/user-attachments/assets/8e54ecf8-3a98-43ab-8ea1-550641973c17" />
+<img width="300" height="250" alt="hq720" src="https://github.com/user-attachments/assets/8e54ecf8-3a98-43ab-8ea1-550641973c17" />
 
 # Laboratorio 6: Filtros digitales aplicados a señales biomédicas.
 
