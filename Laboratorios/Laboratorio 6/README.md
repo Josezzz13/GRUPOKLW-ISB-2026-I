@@ -1,7 +1,10 @@
 
-Las señales fisiológicas son relevantes porque permiten registrar la actividad eléctrica del cuerpo humano, lo que posibilita el diagnóstico, seguimiento y evaluación en tiempo real del paciente; esto con la finalidad de obtener indicios sobre una posible afección o encontrar patrones que deriven en una enfermedad. Sin embargo, estas suelen tener una amplitud de entre microvoltios y milivoltios, lo que dificulta su recolección. El ruido aleatorio, las líneas eléctricas, la interferencia fisiológica, los artefactos de movimiento y la colocación incorrecta de los electrodos son solo algunos ejemplos de las diferentes fuentes de ruido.
+Las señales fisiológicas permiten registrar la actividad eléctrica del cuerpo humano, lo que posibilita el diagnóstico, seguimiento y evaluación en tiempo real del paciente; esto con la finalidad de obtener indicios sobre una posible afección o encontrar patrones que deriven en una enfermedad. Para captarlas se emplean conductores eléctricos denominados electrodos invasivos/intramusculares o electrodos de superficie basándose en el principio de transducción electroquímica, convirtiendo las corrientes iónicas producidas por las células del cuerpo en corrientes de electrones que pueden ser medidas.
 
-Se han aplicado diversos métodos de procesamiento para obtener señales de electrocardiografía (ECG), electroencefalografía (EEG) y electromiografía (EMG). Entre estos destacan los filtros, que son redes o sistemas encargados de alterar la forma de onda, la amplitud-frecuencia y/o la fase-frecuencia de una señal. El filtrado se utiliza para mejorar la calidad del registro, extraer información o separar señales mixtas [1], considerando las frecuencias de onda propias de cada señal.
+Figura 1. Interfaz típica cuerpo-electrodo: la corriente iónica en el cuerpo se convierte en corriente electrónica y viceversa en la interfaz [1]. 
+<img width="1002" height="445" alt="Captura de pantalla 2026-05-08 193011" src="https://github.com/user-attachments/assets/613365cb-231a-41a6-b773-a2f05b14a4c2" />
+
+Tras su obtención las señales presentan una amplitud de entre microvoltios y milivoltios, lo que dificulta su visualización e interpretación, ya que puede presentar ruido, oscilaciones producto de las líneas eléctricas, la interferencia fisiológica como movimientos involuntarios o artefactos y de la colocación incorrecta de los electrodos. Para una correcta evaluación y mitigar la presencia de ruido, se han aplicado diversos métodos de procesamiento para obtener señales de electrocardiografía (ECG), electroencefalografía (EEG) y electromiografía (EMG). Entre estos destacan los filtros, que son redes o sistemas que impiden el paso de frecuencias identificadas ruido o no propias del rango propio de la señal, sin alterar la forma de onda, la amplitud-frecuencia y/o la fase-frecuencia de una señal como en el caso de ECG el rango de frecuencia que proporciona información va desde 0.5 Hz a 150 Hz, en el caso del EMG de 5 Hz a 500 Hz y EEG correspondiente que va desde 0.5 Hz a 70 Hz.
 
 # Tipos de filtros digitales:
 
@@ -14,7 +17,7 @@ El filtro Butterworth su principal caracteristica es tener una respuesta en frec
 ## Señales ECG:
 
 ## Señales EEG:
-### Filtro pasa alto método de ventana de Hanning:
+### Filtro pasa altos método de ventana de Hanning:
 El parpadeo induce un artefacto de gran amplitud debido al movimiento del globo ocular, generando cambios de potencial; este se presenta como una señal de baja frecuencia, típicamente situada en el rango de 0.1 Hz a 10 Hz [3]. Para mitigar esta interferencia, se implementan filtros digitales de paso alto que permiten bloquear estas ondas lentas mientras se preservan las frecuencias superiores del EEG. El EEG clínico convencional se centra, generalmente, en ondas que van de 0.5 a 70 Hz [4].
 El uso de la técnica de ventana de Hanning estabiliza la respuesta del filtro en un tiempo de 11.965 s en la onda theta. El estudio contó con una fs = 1000 Hz, cumpliendo con Nyquist. El orden del filtro no se menciona, pero sugiere que se obtuvo en artículos anteriores un menor error cuadrático medio (MSE) con Hanning de orden 120. La frecuencia de corte varió por onda EEG; en el caso de la theta, presentó una frecuencia de banda de paso de 4 Hz y una frecuencia de banda de rechazo de 8 Hz, acotada en sus rangos de identificación. Esto facilitó la eliminación del desplazamiento de la línea base provocado por el ojo y mejora la precisión en la detección de patrones críticos, como las crisis epilépticas [5,6].
 
@@ -25,7 +28,7 @@ Para la adquision de señales sEMG, ECG y EEG es común la presencia de interfer
 Para eliminar este tipo de ruido, se utiliza un filtro notch (rechaza-banda),diseñado para atenuar una banda muy estrecha de frecuencias centradas en 60 Hz. Este filtro permite suprimir la interferencia eléctrica sin afectar significativamente el resto del contenido de espectros de la señal biomédica.[1]
  
 ## Bibliografia 
-[1]
+[1] Polachan, K., Chatterjee, B., Weigand, S., & Sen, S. (2021). Human Body-Electrode Interfaces for Wide-Frequency Sensing and Communication: A Review. Nanomaterials (Basel, Switzerland), 11(8), 2152. https://doi.org/10.3390/nano11082152
 [2] D. Pradon, L. Tong, C. Chalitsios, y N. Roche, “Development of surface EMG for gait analysis and rehabilitation of hemiparetic patients”, Sensors (Basel), vol. 24, núm. 18, p. 5954, 2024.
 [3] A. Pant y A. Kumar, "Exploración del procesamiento de señales EEG para el filtrado y la clasificación eficaces de crisis epilépticas," Discov. Electron., vol. 3, no. 20, 2026. [En línea]. Disponible en: https://doi.org/10.1007/s44291-026-00174-2
 [4] C. S. Nayak y A. C. Anilkumar, "EEG Normal Waves,"StatPearls. Treasure Island, FL, USA: StatPearls Publishing, 2026. [En línea]. Disponible en: https://www.ncbi.nlm.nih.gov/books/NBK539805/ 
