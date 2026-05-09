@@ -22,7 +22,7 @@ El filtro Butterworth su principal caracteristica es tener una respuesta en frec
 
 ### Señales ECG:
 
-## Señales EEG:
+### Señales EEG:
 
 Es una prueba que mide la actividad eléctrica del cerebro, permite detectar cambios en la actividad cerebral que podrían ayudar a diagnosticar afecciones cerebrales, especialmente epilepsia u otras afecciones afines. También puede servir para confirmar la muerte cerebral en alguien que se encuentra en estado de coma[eeg1].
 Los electrodos de EEG se colocan sobre o alrededor de los músculos craneales como se muestra en la figura ee2.
@@ -31,9 +31,11 @@ Los electrodos de EEG se colocan sobre o alrededor de los músculos craneales co
 
 <img width="600" height="400" alt="Captura de pantalla 2026-05-08 215208" src="https://github.com/user-attachments/assets/e52b698b-5a79-4805-b7a2-334f81da1255" />
 
-la actividad miogénica del frontal, el temporal, los músculos oculares , los músculos del cuello y los músculos periauriculares pueden interferir con la señal de EEG registrada [eeg3]. Todo ello genera ruido por, principalmente, diafonía entre sitios de registro cercanos.
+
+Al estar ubicado en la cabeza, la actividad miogénica del frontal, el temporal, los músculos oculares, los músculos del cuello y los músculos periauriculares pueden interferir con la señal de EEG registrada [eeg3]. Todo ello genera ruido por, principalmente, diafonía entre sitios de registro cercanos, para ello se emplean los siguientes filtros:
 
 #### Pasa altos método de ventana de Hanning:
+
 El parpadeo induce un artefacto de gran amplitud debido al movimiento del globo ocular, generando cambios de potencial; este se presenta como una señal de baja frecuencia, típicamente situada en el rango de 0.1 Hz a 10 Hz [eeg4]. Para mitigar esta interferencia, se implementan filtros digitales de paso alto que permiten bloquear estas ondas lentas mientras se preservan las frecuencias superiores del EEG. El EEG clínico convencional se centra, generalmente, en ondas que van de 0.5 a 70 Hz [eeg5].
 El uso de la técnica de ventana de Hanning estabiliza la respuesta del filtro en un tiempo de 11.965 s en la onda theta. El estudio contó con una fs = 1000 Hz, cumpliendo con Nyquist. El orden del filtro no se menciona, pero sugiere que se obtuvo en artículos anteriores un menor error cuadrático medio (MSE) con Hanning de orden 120. La frecuencia de corte varió por onda EEG; en el caso de la theta, presentó una frecuencia de banda de paso de 4 Hz y una frecuencia de banda de rechazo de 8 Hz, acotada en sus rangos de identificación. Esto facilitó la eliminación del desplazamiento de la línea base provocado por el ojo y mejora la precisión en la detección de patrones críticos, como las crisis epilépticas [eeg6,eeg7].
 
@@ -44,9 +46,10 @@ Para la identificación de artefactos como el parpadéo y voluntarios como la ma
 *Figura eeg1. Resultados representativos tras la aplicacion de una frecuencia de muestreo de 4096 Hz y los filtros se configuraron con un paso alto de 0.15 Hz y un paso bajo de 1500 Hz.[eeg3]*
 <img width="600" height="400" alt="Captura de pantalla 2026-05-08 211512" src="https://github.com/user-attachments/assets/a3622c5d-844a-4dcc-870f-97ba94eaedd5" />
 
-El estudio citado menciona que tras la obtención de la señal EEG limpia, se imtrodujeron señales que contenian ruidos por artefactos como parpadéos y masticación, para luego realizar los filtros paso altos y paso bajos, en ese respectivo orden, obteniendo la reconstrucción de la señal inicial.
 
-#### 
+El estudio menciona que tras la obtención de la señal EEG limpia, se imtrodujeron señales que contenian ruidos por artefactos como parpadéos y masticación, para luego realizar los filtros paso altos y paso bajos, en ese respectivo orden, obteniendo la reconstrucción de la señal inicial.
+
+#### FALTAN 2
 
 ### Generales:
 
