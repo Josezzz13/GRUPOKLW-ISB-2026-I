@@ -34,7 +34,7 @@ El uso de la técnica de ventana de Hanning estabiliza la respuesta del filtro e
 Para la identificación de artefactos como el parpadéo y voluntarios como la masticación para mitigación y posible eliminación de señales EMG. Aplicar estos filtros, reduce drásticamente la amplitud y el contenido de frecuencia de la actividad de espigas de la Unidad simple motora (SMU), lo que hace que parezca una onda de EEG. Utilizar altas frecuencias de muestreo, mayor captación de datos pero mas costo computacional, y altos niveles de filtrado de paso bajo, al menos 1500 Hz, para el registro y la evaluación de la señal de EEG, permite que la actividad de la SMU sea visible en los registros de EEG promediados por activación de espigas, de modo que se puedan crear algoritmos especiales para manejar estos artefactos.
 
 *Figura eeg1.  Resultados tras la aplicacion de una frecuencia de muestreo de 4096 Hz y los filtros se configuraron con un paso alto de 0.15 Hz y un paso bajo de 1500 Hz.[eeg1]*
-<img width="882" height="551" alt="Captura de pantalla 2026-05-08 211512" src="https://github.com/user-attachments/assets/a3622c5d-844a-4dcc-870f-97ba94eaedd5" />
+<img width="600" height="300" alt="Captura de pantalla 2026-05-08 211512" src="https://github.com/user-attachments/assets/a3622c5d-844a-4dcc-870f-97ba94eaedd5" />
 
 #### Filtro
 
