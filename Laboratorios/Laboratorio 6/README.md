@@ -33,7 +33,7 @@ Es uno de los filtros digitales más utilizados en el procesamiento de señales 
 Los artefactos eliminados a baja frecuencia son los movimientos realizados durante las mediciones (bajas frecuencias) y el ruido muscular que es común en las altas frecuencias cuyos valores suelen superar a los 100 Hz. [ecg2]
 
 #### Ventana de Hamming:
-Es uno de los métodos más utilizados en el diseño de filtros FIR para el procesamiento de señales ECG, debido a su capacidad para reducir las oscilaciones y minimizar el ruido sin alterar la morfología de la señal. Esta ventana es empleada para diseñar filtros FIR orientados a la eliminación de interferencias presentes en registros electrocardiográficos, como la derivada de línea base y el ruido muscular. De esta forma ofrece una adecuada atenuación de los lóbulos laterales, permitiendo mejorar la calidad del ECG y obteniendo una mejor representación del complejo QRS. [ecg3]
+Es uno de los métodos más utilizados en el diseño de filtros FIR para el procesamiento de señales ECG, debido a su capacidad para reducir las oscilaciones y minimizar el ruido sin alterar la morfología de la señal. Esta ventana es empleada para diseñar filtros FIR orientados a la eliminación de interferencias presentes en registros electrocardiográficos, como la derivada de línea base y el ruido muscular. De esta forma ofrece una adecuada atenuación de los lóbulos laterales (-41db). Así disminuye la fuga espectral y evita la mezcla del ruido con la+ secuencia útil de la señal ecg, permitiendo mejorar su calidad y obteniendo una mejor representación del complejo QRS. [ecg3]
 
 
 ### Señales EEG:
