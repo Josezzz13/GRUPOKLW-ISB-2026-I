@@ -32,6 +32,9 @@ Es uno de los filtros digitales más utilizados en el procesamiento de señales 
 
 Los artefactos eliminados a baja frecuencia son los movimientos realizados durante las mediciones (bajas frecuencias) y el ruido muscular que es común en las altas frecuencias cuyos valores suelen superar a los 100 Hz. [ecg2]
 
+#### Ventana de Hamming:
+Es uno de los métodos más utilizados en el diseño de filtros FIR para el procesamiento de señales ECG, debido a su capacidad para reducir las oscilaciones y minimizar el ruido sin alterar la morfología de la señal. Esta ventana es empleada para diseñar filtros FIR orientados a la eliminación de interferencias presentes en registros electrocardiográficos, como la derivada de línea base y el ruido muscular. De esta forma ofrece una adecuada atenuación de los lóbulos laterales, permitiendo mejorar la calidad del ECG y obteniendo una mejor representación del complejo QRS. [ecg3]
+
 
 ### Señales EEG:
 
@@ -70,7 +73,8 @@ Para eliminar este tipo de ruido, se utiliza un filtro notch (rechaza-banda),dis
 [1] Polachan, K., Chatterjee, B., Weigand, S., & Sen, S. (2021). Human Body-Electrode Interfaces for Wide-Frequency Sensing and Communication: A Review. Nanomaterials (Basel, Switzerland), 11(8), 2152. https://doi.org/10.3390/nano11082152
 [2] D. Pradon, L. Tong, C. Chalitsios, y N. Roche, “Development of surface EMG for gait analysis and rehabilitation of hemiparetic patients”, Sensors (Basel), vol. 24, núm. 18, p. 5954, 2024.
 [ecg1] Buendía-Fuentes, F., Arnau-Vives, M. A., Arnau-Vives, A., Jiménez-Jiménez, Y., Rueda-Soriano, J., Zorio-Grima, E., Osa-Sáez, A., Martínez-Dolz, L. V., Almenar-Bonet, L., & Palencia-Pérez, M. A. (2012). High-Bandpass Filters in Electrocardiography: Source of Error in the Interpretation of the ST Segment. ISRN cardiology, 2012, 706217. https://doi.org/10.5402/2012/706217
-[ecg2] Kher R, Rajput A. Signal processing techniques for removing noise from ECG signals. J Biomed Eng Med Imaging. 2016;3(1):1-9. Available from: https://www.sciencedirect.com/science/article/abs/pii/S0022073616300802?
+[ecg2] Kher R, Rajput A. Signal processing techniques for removing noise from ECG signals. J Biomed Eng Med Imaging. 2016;3(1):1-9. Available from: https://www.sciencedirect.com/science/article/abs/pii/S0022073616300802
+[ecg3]. Rasel VB, Sultana S, Rajib MMA. Design of window based FIR filter for electrocardiogram signal. Int J Nonlinear Anal Appl. 2021;12(Special Issue):1813-1823. Available from:https://ijnaa.semnan.ac.ir/article_5804_220fa0282ba59429fa8ec3e35fbc3599.pdf
 [eeg1]Mayo Clinic Staff, “Electroencefalografía (EEG),” Mayo Clinic, Sep. 18, 2024. [En línea]. Disponible en:https://www.mayoclinic.org/es/tests-procedures/eeg/about/pac-20393875.[Accedido: 08-may-2026].
 [eeg2] C. Novo-Olivas, L. Gutiérrez y J. Bribiesca, “Mapeo Electroencefalográfico y Neurofeedback,” en Aproximaciones al estudio de la neurociencia del comportamiento, M. A. Guevara Pérez, M. Arteaga Silva, A. Contreras Gómez y M. Hernández González, Eds. Guerrero, México: Universidad Autónoma de Guerrero, 2010, cap. XIII, pp. 371–412, ISBN: 978-970-764-911-8.
 [eeg3]Yilmaz, G., Ungan, P., Sebik, O., Uginčius, P., & Türker, K. S. (2014). Interference of tonic muscle activity on the EEG: a single motor unit study. Frontiers in human neuroscience, 8, 504. https://doi.org/10.3389/fnhum.2014.00504
