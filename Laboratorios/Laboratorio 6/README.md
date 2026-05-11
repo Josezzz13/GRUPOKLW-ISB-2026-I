@@ -20,6 +20,10 @@ La señal de electromiografía de superficie (sEMG) presenta su contenido de fre
 Para mitigar estos efectos,se emplea un filtro pasa-banda tipo Butterworth,con frecuencias de corte entre 20 Hz y 450 Hz.Este filtro nos ayuda a eliminar tanto las componentes de baja frecuencia como las de alta frecuencia, conservando únicamente la banda de interés.
 El filtro Butterworth su principal caracteristica es tener una respuesta en frecuencia plana en la banda de paso (bajo grado de oscilaciones en la banda de paso), lo que evita distorsionar la amplitud de la señal, siendo especialmente útil en el análisis de la señales musculares [2]
 
+#### Filtro FIR usando ventanas Rectangular/Hamming/Hann/Blackman
+En señales EMG, los filtros FIR basados en ventanas se utilizan para eliminar artefactos de movimiento y ruido electrónico preservando la actividad muscular útil. Diversos estudios compararon ventanas Rectangular, Hamming, Hann y Blackman aplicadas a filtros pasa-banda para EMG de superficie. Generalmente, la banda útil del EMG se encuentra entre 20 Hz y 450 Hz, por lo que las frecuencias de corte del filtro se ajustan dentro de dicho intervalo. Los parámetros evaluados incluyeron densidad espectral de potencia (PSD), relación señal-ruido (SNR), media y desviación estándar de la señal filtrada. La ventana Blackman mostró una mayor atenuación del ruido fuera de banda, mientras que Hamming y Hann ofrecieron mejores compromisos entre resolución espectral y complejidad computacional. Estos filtros permitieron mejorar la interpretación de la activación muscular y reducir interferencias externas durante el registro electromiográfico [i].
+
+
 ### Señales ECG:
 
 #### Pasa altos
@@ -34,6 +38,9 @@ Los artefactos eliminados a baja frecuencia son los movimientos realizados duran
 
 #### Ventana de Hamming:
 Es uno de los métodos más utilizados en el diseño de filtros FIR para el procesamiento de señales ECG, debido a su capacidad para reducir las oscilaciones y minimizar el ruido sin alterar la morfología de la señal. Esta ventana es empleada para diseñar filtros FIR orientados a la eliminación de interferencias presentes en registros electrocardiográficos, como la derivada de línea base y el ruido muscular. De esta forma ofrece una adecuada atenuación de los lóbulos laterales (-41db). Así disminuye la fuga espectral y evita la mezcla del ruido con la+ secuencia útil de la señal ecg, permitiendo mejorar su calidad y obteniendo una mejor representación del complejo QRS. [ecg3]
+
+#### Filtro FIR pasa-bajos con ventana Blackman/Kaiser/Hamming
+En el procesamiento de señales ECG, los filtros FIR (Finite Impulse Response) diseñados mediante ventanas se emplean para reducir ruido de alta frecuencia y artefactos preservando la morfología de las ondas P, QRS y T. Una de sus principales ventajas es la respuesta de fase lineal, lo que minimiza la distorsión temporal de la señal cardíaca. En la literatura se evaluaron ventanas como Blackman, Kaiser y Hamming para el diseño de filtros FIR pasa-bajos orientados al denoising de ECG. Betancourt et. al empleó frecuencias de corte acordes al rango útil del ECG (0.05 Hz – 150 Hz) y comparó el desempeño mediante parámetros como la relación señal-ruido (SNR) y el error cuadrático medio (MSE). La ventana Blackman presentó mayor atenuación de lóbulos laterales, mientras que Kaiser permitió ajustar el compromiso entre ancho de banda de transición y atenuación mediante el parámetro β. Esto permitió mejorar la calidad de la señal sin alterar significativamente los complejos QRS [ii].
 
 
 ### Señales EEG:
@@ -63,6 +70,10 @@ Para la identificación de artefactos como el parpadéo y voluntarios como la ma
 
 El estudio menciona que tras la obtención de la señal EEG limpia, se imtrodujeron señales que contenian ruidos por artefactos como parpadéos y masticación, para luego realizar los filtros paso altos y paso bajos, en ese respectivo orden, obteniendo la reconstrucción de la señal inicial.
 
+#### Filtro FIR con ventana Hanning/Hamming/Blackman
+En señales EEG, los filtros FIR diseñados mediante el método de ventanas permiten aislar bandas cerebrales específicas y disminuir artefactos asociados al movimiento ocular y actividad muscular. La ventana Hanning es ampliamente utilizada debido a que reduce el leakage espectral y suaviza las discontinuidades en la respuesta impulsional del filtro. En estudios aplicados a EEG se emplearon frecuencias de muestreo cercanas a 1000 Hz y órdenes de filtro alrededor de 120 coeficientes para obtener una mejor respuesta en frecuencia. La banda de paso fue ajustada según las ondas cerebrales analizadas; por ejemplo, para ondas theta se emplearon frecuencias entre 4 Hz y 8 Hz. Asimismo, se observó que la ventana Hanning proporciona un equilibrio adecuado entre ancho del lóbulo principal y atenuación de lóbulos secundarios, permitiendo mejorar la detección de patrones asociados a epilepsia y otras alteraciones neurológicas [iii].
+
+
 ### Generales:
 
 #### Notch (Rechaza-banda)
@@ -82,3 +93,9 @@ Para eliminar este tipo de ruido, se utiliza un filtro notch (rechaza-banda),dis
 [eeg5] C. S. Nayak y A. C. Anilkumar, "EEG Normal Waves,"StatPearls. Treasure Island, FL, USA: StatPearls Publishing, 2026. [En línea]. Disponible en: https://www.ncbi.nlm.nih.gov/books/NBK539805/ 
 [eeg6] A. Pant y A. Kumar, "Hanning FIR window filtering analysis for EEG signals," Biomedical Analysis, vol. 1, no. 2, pp. 111-123, Jun. 2024, doi: 10.1016/j.bioana.2024.05.003.
 [eeg7] A. Pant, A. Kumar, C. Verma, y Z. Illés, "Comparative exploration on EEG signal filtering using window control methods," Results in Control and Optimization, vol. 17, art. 100485, dic. 2024, doi: 10.1016/j.rico.2024.100485.
+[iii] H. Kupar and A. Goen , “Comparative Study of FIR Digital Filter for Noise Elimination in EMG Signal,” International Journal of Advanced Research , vol. 3, no. 12, pp. 598–603, Dec. 2015, Available: https://www.researchgate.net/publication/330703731_Comparative_Study_of_FIR_Digital_Filter_for_Noise_Elimination_in_EMG_Signal
+‌
+[i] A. Pant and A. Kumar, “Hanning FIR window filtering analysis for EEG signals,” Biomedical Analysis, vol. 1, no. 2, pp. 111–123, Jun. 2024, doi: https://doi.org/10.1016/j.bioana.2024.05.003.
+‌
+[ii] N. Betancourt, M. Flores-Calero, and C. Almeida, “ECG Denoising by using FIR and IIR Filtering Techniques,” May 2019, doi: https://doi.org/10.1145/3340074.3340088.
+‌
