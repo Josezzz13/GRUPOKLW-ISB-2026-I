@@ -41,7 +41,7 @@ T --> Temporal: audición, memoria y lenguaje.
 
 Z --> Zero: línea media.
 
-(imagen xd2)
+<img width="465" height="285" alt="10_20EEG" src="https://github.com/user-attachments/assets/33f328a2-6b0d-4002-b30f-fa892a8ef029" />
 
 ## Metodología:
 
