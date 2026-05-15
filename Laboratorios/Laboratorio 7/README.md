@@ -27,6 +27,11 @@
 ### Resultados:
 
 
+<img width="1489" height="989" alt="1q" src="https://github.com/user-attachments/assets/bde94b3b-a19c-49e9-804a-d90cdd01c85a" />
+<img width="1189" height="490" alt="1" src="https://github.com/user-attachments/assets/e66d95d3-e024-49b0-9cde-e729b3ca6869" />
+
+*Figura 1.*
+
 
 
 
