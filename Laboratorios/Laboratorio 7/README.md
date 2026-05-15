@@ -28,17 +28,19 @@ La electroencefalografía (EEG) es un método no invasivo utilizado para registr
 ### Adquisición de la señal EEG:
 La señal EEG puede obtenerse de forma monopolar, donde un electrodo activo es colocado respecto a una referencia común o bipolar, que mide la diferencia entre dos electrodos activos más una referencia. Por otro lado, una forma estandarizada de ubicar los electrodos en el cráneo humano es el sistema internacional 10-20, que distribuye las posiciones según porcentajes del tamaño del cráneo y usa letras para identificar las regiones corticales [2]:
 
-F --> (Frontal): funciones ejecutivas y atención.
+F --> Frontal: funciones ejecutivas y atención.
 
-C --> (Central): área motora.
+C --> Central: área motora.
 
-P --> (Parietal): integración sensorial.
+P --> Parietal: integración sensorial.
 
-O --> (Occipital): procesamiento visual.
+O --> Occipital: procesamiento visual.
 
-T --> (Temporal): audición, memoria y lenguaje.
+T --> Temporal: audición, memoria y lenguaje.
 
-Z --> (Zero): línea media.
+Z --> Zero: línea media.
+
+(imagen xd2)
 
 ## Metodología:
 
