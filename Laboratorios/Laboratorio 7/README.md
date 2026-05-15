@@ -37,6 +37,10 @@
 
 *Figura 2. Gráficas de la señal temporal y espectral de una señal EEG realizando parpadeos constantes antes y después del filtrado bandpass (1–40 Hz), mostrando la señal en el dominio del tiempo, su transformada rápida de Fourier (FFT), densidad espectral de potencia (PSD) y distribución de potencia en las bandas Delta, Theta, Alfa, Beta y Gamma*
 
+<img width="1189" height="490" alt="descarga (2)" src="https://github.com/user-attachments/assets/13808b68-909c-47d8-9db6-0dd24da3c569" />
+<img width="1490" height="989" alt="descarga (1)" src="https://github.com/user-attachments/assets/bf7f73fb-155b-44f8-851e-faae0fe6df9d" />
+
+
 
 
 
