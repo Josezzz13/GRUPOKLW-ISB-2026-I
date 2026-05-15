@@ -30,7 +30,7 @@
 <img width="1489" height="989" alt="1q" src="https://github.com/user-attachments/assets/bde94b3b-a19c-49e9-804a-d90cdd01c85a" />
 <img width="1189" height="490" alt="1" src="https://github.com/user-attachments/assets/e66d95d3-e024-49b0-9cde-e729b3ca6869" />
 
-*Figura 1.*
+*Figura 1. Gráficas de la señal temporal y espectral de una señal EEG basal antes y después del filtrado bandpass (1–40 Hz), mostrando la señal en el dominio del tiempo, su transformada rápida de Fourier (FFT), densidad espectral de potencia (PSD) y distribución de potencia en las bandas Delta, Theta, Alfa, Beta y Gamma*
 
 
 
