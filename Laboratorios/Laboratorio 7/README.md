@@ -44,7 +44,12 @@
 
 <img width="1490" height="989" alt="descarga (3)" src="https://github.com/user-attachments/assets/893ad135-c0af-4699-8ff8-33170521b6e5" />
 <img width="1189" height="490" alt="descarga (4)" src="https://github.com/user-attachments/assets/b8f8bf9e-d215-40d6-b85b-af7dedf12f7e" />
+
 *Figura 4. Gráficas de la señal temporal y espectral de una señal EEG realizando parpadeos constantes y masticación simultaneamente, antes y después del filtrado bandpass (1–40 Hz), mostrando la señal en el dominio del tiempo, su transformada rápida de Fourier (FFT), densidad espectral de potencia (PSD) y distribución de potencia en las bandas Delta, Theta, Alfa, Beta y Gamma*
 
+<img width="1490" height="989" alt="descarga (5)" src="https://github.com/user-attachments/assets/b05f2a57-f630-4410-8c5e-8fd77b376438" />
+<img width="1189" height="490" alt="descarga (6)" src="https://github.com/user-attachments/assets/9d202930-8e78-4e31-a3b4-7a12f6ea5876" />
+
+*Figura 5. Gráficas de la señal temporal y espectral de una señal EEG tercera medición en reposo, antes y después del filtrado bandpass (1–40 Hz), mostrando la señal en el dominio del tiempo, su transformada rápida de Fourier (FFT), densidad espectral de potencia (PSD) y distribución de potencia en las bandas Delta, Theta, Alfa, Beta y Gamma*
 
 
