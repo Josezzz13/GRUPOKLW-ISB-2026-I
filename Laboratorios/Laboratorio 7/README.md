@@ -21,6 +21,8 @@
 [Metodología](#Metodología)
 
 ## Introducción:
+La electroencefalografía (EEG) es un método no invasivo utilizado para registrar la actividad eléctrica cerebral mediante electrodos ubicados en el cuero cabelludo. Estas señales eléctricas provienen principalmente de los potenciales postsinápticos producidos por las neuronas piramidales de la corteza cerebral, cuya disposición paralela facilita la detección de las oscilaciones neuronales. A través del EEG es posible analizar distintas bandas de frecuencia cerebral, como delta, theta, alfa, beta y gamma.
+### Bandas de Frecuencia EEG:
 
 ## Metodología:
 
