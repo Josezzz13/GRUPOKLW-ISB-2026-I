@@ -1,3 +1,4 @@
-<img width="300" height="92" alt="u-cayetano-heredia" src="https://github.com/user-attachments/assets/00ccd926-4793-4a7b-b176-73e74825eb2b" />
+<img width="686" height="386" alt="hq720 (1)" src="https://github.com/user-attachments/assets/c603db1d-a501-4815-936b-9bfb0de0673f" />
+
 
 
