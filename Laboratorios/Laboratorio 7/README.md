@@ -1,3 +1,4 @@
+<img width="1194" height="489" alt="senialeseeg" src="https://github.com/user-attachments/assets/ab30c2d0-d431-4fd6-9af3-497f538fc33a" />
 <div align="center">
 
 # Laboratorio 7:
