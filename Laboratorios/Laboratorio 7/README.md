@@ -52,4 +52,9 @@
 
 *Figura 5. Gráficas de la señal temporal y espectral de una señal EEG tercera medición en reposo, antes y después del filtrado bandpass (1–40 Hz), mostrando la señal en el dominio del tiempo, su transformada rápida de Fourier (FFT), densidad espectral de potencia (PSD) y distribución de potencia en las bandas Delta, Theta, Alfa, Beta y Gamma*
 
+<img width="1490" height="989" alt="descarga (7)" src="https://github.com/user-attachments/assets/cd6129c1-e66e-4964-b649-4bf6ba96e2fc" />
+<img width="1189" height="490" alt="descarga (8)" src="https://github.com/user-attachments/assets/383545be-c1af-4ff6-bcb6-696ad59c4bf5" />
+
+*Figura 6. Gráficas de la señal temporal y espectral de una señal EEG resultados obtenidos mientras se escuchaba música considerada relajante por el sujeto de prueba, antes y después del filtrado bandpass (1–40 Hz), mostrando la señal en el dominio del tiempo, su transformada rápida de Fourier (FFT), densidad espectral de potencia (PSD) y distribución de potencia en las bandas Delta, Theta, Alfa, Beta y Gamma*
+
 
