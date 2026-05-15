@@ -18,7 +18,18 @@
 </div>
 
 [Introducción](#Introducción)
-## Introducción
+[Metodología](#Metodología)
+
+## Introducción:
+
+## Metodología:
+
+### Resultados:
+
+
+
+
+
 
 
 
