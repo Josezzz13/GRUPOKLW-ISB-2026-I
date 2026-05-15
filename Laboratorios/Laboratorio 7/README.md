@@ -1,2 +1,3 @@
-<img width="350" height="109" alt="logo_upch" src="https://github.com/user-attachments/assets/96b697da-705e-493d-b405-fced4e32a81c" />
+<img width="300" height="92" alt="u-cayetano-heredia" src="https://github.com/user-attachments/assets/00ccd926-4793-4a7b-b176-73e74825eb2b" />
+
 
