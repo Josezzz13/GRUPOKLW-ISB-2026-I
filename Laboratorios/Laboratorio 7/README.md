@@ -46,7 +46,7 @@ Z --> Zero: línea media.
 ## Metodología:
 
 
-### Ejecución en laboratorio - Evidencia: 
+### Desarrollo en laboratorio - Evidencia: 
 
 | Actididad                    | Ejecución | Señal obtenida (OpenSignals) |
 |------------------------------|-----------|------------------------------|
