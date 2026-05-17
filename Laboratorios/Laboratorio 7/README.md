@@ -45,6 +45,14 @@ Z --> Zero: línea media.
 
 ## Metodología:
 
+
+### Ejecución en laboratorio - Evidencia: 
+
+| Actididad                    | Ejecución | Señal obtenida (OpenSignals) |
+|------------------------------|-----------|------------------------------|
+| Reposo sin percepción visual |  <img width="1600" height="902" alt="WhatsApp Image 2026-05-16 at 9 59 41 PM" src="https://github.com/user-attachments/assets/56189c28-fb31-4f88-b16d-22b9f913155f" />|
+| Luis   | 22   |
+
 ### Resultados:
 
 
