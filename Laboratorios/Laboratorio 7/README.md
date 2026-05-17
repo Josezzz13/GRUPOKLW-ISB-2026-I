@@ -38,7 +38,7 @@ La señal EEG puede obtenerse de forma monopolar, donde un electrodo activo es c
 |T |Temporal| Audición, memoria y lenguaje|
 |Z | Zero|Línea media|
 
-<img width="465" height="285" alt="10_20EEG" src="https://github.com/user-attachments/assets/33f328a2-6b0d-4002-b30f-fa892a8ef029" />
+<img width="600" height="400" alt="Captura de pantalla 2026-05-08 215208" src="https://github.com/user-attachments/assets/e52b698b-5a79-4805-b7a2-334f81da1255" />
 
 ## Metodología:
 
