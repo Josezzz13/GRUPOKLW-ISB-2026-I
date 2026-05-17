@@ -24,7 +24,7 @@
 ## Introducción:
 La electroencefalografía (EEG) es un método no invasivo utilizado para registrar la actividad eléctrica cerebral mediante electrodos ubicados en el cuero cabelludo. Estas señales eléctricas provienen principalmente de los potenciales postsinápticos producidos por las neuronas piramidales de la corteza cerebral, cuya disposición paralela facilita la detección de las oscilaciones neuronales. A través del EEG es posible analizar distintas bandas de frecuencia cerebral, como delta, theta, alfa, beta y gamma. [1]
 ### Bandas de Frecuencia EEG:
-<img width="1194" height="489" alt="senialeseeg" src="https://github.com/user-attachments/assets/ab30c2d0-d431-4fd6-9af3-497f538fc33a" />
+<img width="800" height="200" alt="senialeseeg" src="https://github.com/user-attachments/assets/ab30c2d0-d431-4fd6-9af3-497f538fc33a" />
 
 ### Adquisición de la señal EEG:
 La señal EEG puede obtenerse de forma monopolar, donde un electrodo activo es colocado respecto a una referencia común o bipolar, que mide la diferencia entre dos electrodos activos más una referencia. Por otro lado, una forma estandarizada de ubicar los electrodos en el cráneo humano es el sistema internacional 10-20, que distribuye las posiciones según porcentajes del tamaño del cráneo y usa letras para identificar las regiones corticales [2]:
