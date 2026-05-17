@@ -50,10 +50,9 @@ Z --> Zero: línea media.
 
 | Actididad                    | Ejecución | Señal obtenida (OpenSignals) |
 |------------------------------|-----------|------------------------------|
-| Reposo sin percepción visual |  <img width="1600" height="902" alt="WhatsApp Image 2026-05-16 at 9 59 41 PM" src="https://github.com/user-attachments/assets/56189c28-fb31-4f88-b16d-22b9f913155f" />|https://github.com/user-attachments/assets/d0d51938-4a45-411e-b5eb-54b4f7e0df5d|
-
-
-| Luis   | 22   |
+| Reposo sin percepción visual |  <img width="1600" height="902" alt="WhatsApp Image 2026-05-16 at 9 59 41 PM" src="https://github.com/user-attachments/assets/56189c28-fb31-4f88-b16d-22b9f913155f" />|https://github.com/user-attachments/assets/020a761d-6678-46da-9c00-4fe0b34646fe|
+| Mirando un punto fijo| <img width="1600" height="1200" alt="WhatsApp Image 2026-05-16 at 10 00 19 PM" src="https://github.com/user-attachments/assets/b3cf403f-9d8b-4252-89f5-a59a4e1f2075" />| https://github.com/user-attachments/assets/99136424-bea0-469d-a342-1311f0b8089b |
+|
 
 ### Resultados:
 
