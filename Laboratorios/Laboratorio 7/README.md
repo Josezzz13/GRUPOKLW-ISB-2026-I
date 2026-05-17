@@ -50,7 +50,7 @@ Z --> Zero: línea media.
 
 | Actididad                    | Ejecución | Señal obtenida (OpenSignals) |
 |------------------------------|-----------|------------------------------|
-| Reposo sin percepción visual |  <img width="900" height="100" alt="WhatsApp Image 2026-05-16 at 9 59 41 PM" src="https://github.com/user-attachments/assets/56189c28-fb31-4f88-b16d-22b9f913155f" />|https://github.com/user-attachments/assets/020a761d-6678-46da-9c00-4fe0b34646fe|
+| Reposo sin percepción visual |  <img width="900" height="600" alt="WhatsApp Image 2026-05-16 at 9 59 41 PM" src="https://github.com/user-attachments/assets/56189c28-fb31-4f88-b16d-22b9f913155f" />|https://github.com/user-attachments/assets/020a761d-6678-46da-9c00-4fe0b34646fe|
 | Mirando un punto fijo| <img width="1600" height="1200" alt="WhatsApp Image 2026-05-16 at 10 00 19 PM" src="https://github.com/user-attachments/assets/b3cf403f-9d8b-4252-89f5-a59a4e1f2075" />| https://github.com/user-attachments/assets/99136424-bea0-469d-a342-1311f0b8089b |
 |Segundo reposo sin percepción visual|<img width="1600" height="1200" alt="WhatsApp Image 2026-05-16 at 10 01 02 PM" src="https://github.com/user-attachments/assets/8fc73bd7-4284-4f84-a044-d541beacf14e" />|https://github.com/user-attachments/assets/45c0d189-852b-4220-b3af-9e076dd9b365|
 |Parpadeo y mastocación constante|<img width="1600" height="1200" alt="WhatsApp Image 2026-05-16 at 10 01 55 PM" src="https://github.com/user-attachments/assets/89d82250-4750-4cd5-bd21-22607171030c" />|https://github.com/user-attachments/assets/c3098b89-0ea7-4088-9c85-729ed3c6bddb|
