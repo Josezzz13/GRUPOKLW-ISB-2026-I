@@ -153,7 +153,12 @@ Por otro lado, se ha reportado que el artefacto por movimiento facial suele sobr
 Adicionalmente, se ve un incremento de la presencia de la onda Beta mientras se realiza el ejercicio de masticación y parpadeo constante, lo que puede relacionarse la concentración requerida para realizarse ambos movimientos simultáneamente y uniforme dentro de lo posible; y la onda Delta, lo que puede relacionarse a la memoria de trabajo, al recordar la metodología del ejercicios para replicarla uniformemente durante 1 minuto.
 Sin embargo, el significativo cambio en la banda de la onda Theta y Alfa (4-13 Hz) relacionada a la relajación con los ojos cerrados y meditación profunda puede ser debido al ruido provocado por el parpadeo constante que puede encontrarse entre las frecuencias de 0 a 16 Hz.  
 ## Análisis de efecto de la música relajante y música estresante
-
+Se puede observar en la Figura 6, que la potencia de la onda Beta disminuye debido al efecto de relajación de la música relajante a comparación de medición basal previa de la Figura 5. Asimismo, se ve un incremento significativo en la potencia de la onda Beta en la Figura 7 al escuchar música estresante, lo que puede estar asociado al estrés y al estado de alerta que produce el estímulo.
+Por otro lado, se ve el aumento de la potencia en la banda Theta y Alfa al escuchar música estresante versus música relajante, lo que puede deberse a las actividades cognitivas intensas y la memoria de trabajo requerida debido a la alta frecuencia de los componentes y ritmo de la canción y el volumen de la voz principal.  
+En contraste al escuchar música relajante versus medición basal se ve una disminución de las ondas Theta y Alfa que puede deberse al ritmo pausado de la música y la simplicidad de elementos de la canción relacionados a las actividades de relajación y relajación de las ondas.
+## Limitaciones
+- No se llega a suprimir del todo los estímulos externos para lograr una oscuridad ni silencio óptimos por el contexto estudiantil.
+- Para un análisis más profundo, se debe registrar las señales EEG de los canales Fp1 y Fp2 por separado, ya que los hemisferios del cerebro realizan actividades diferentes y tienen distintos comportamientos derivados de los estímulos como la música, concentración o atención sostenida y sus respectivos efectos en las distintas ondas cerebrales.   
 ## Referencias:
 [1] Mayo Clinic. Electroencefalograma (EEG) [Internet]. Mayo Clinic; 2023 [citado 15 mayo 2026]. Disponible en: https://www.mayoclinic.org/es/tests-procedures/eeg/about/pac-20393875
 
