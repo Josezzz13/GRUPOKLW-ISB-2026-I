@@ -10,7 +10,7 @@
 * Cárdenas Paniagua, Daniel Bagkdan 
 * Soto Casasola, Maria Celina
 * Zapata Castro, José Alonso
-* Egusquiza Rubiños, Matias Enrique 
+* Rubiños Egusquiza, Matias Enrique 
 * Fuentes Hurtado, Astrid Nayeli 
  
 **2026-I**
