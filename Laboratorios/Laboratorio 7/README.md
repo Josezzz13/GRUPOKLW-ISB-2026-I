@@ -41,7 +41,43 @@ La señal EEG puede obtenerse de forma monopolar, donde un electrodo activo es c
 <img width="600" height="400" alt="Captura de pantalla 2026-05-08 215208" src="https://github.com/user-attachments/assets/e52b698b-5a79-4805-b7a2-334f81da1255" />
 
 ## Metodología:
+Con el objetivo de llevar a cabo la adquisición y el procesamiento de señales electroencefalográficas, se implementó un protocol estructurado que permitió registrar la actividad de la señal bajo diferentes condiciones. Para ello, se consideraron escenarios de reposo, presencia o ausencia de percepción visual, generación de artefactos musculares y exposición a estímulos auditivos.
 
+Para la ejecución de este procedimiento, se emplearon los siguientes materiales:
+
+- Placa del sistema BITalino.
+- Sensor bipolar de electroencefalografía.
+- Electrodos desechables de gel.
+- Computadora portátil con la aplicación OpenSignals instalada.
+- Cronómetro de un dispositivo móvil.
+- Audífonos con cancelación de ruido.
+- Venda para bloquear la percepción visual.
+
+Como etapa inicial del procedimiento se realizó la identificación de los puntos anatómicos adecuados para la colocación de los electrodos seguido a ello con la limpieza de aquella zona. En este caso, se trabajó con una configuración bipolar ubicada en la región frontal, específicamente en las posiciones Fp1 y Fp2, correspondientes al sistema internacional 10–20 de colocación de electrodos para la medicion de EEG.
+
+<img width="417" height="406" alt="Screenshot 2026-05-17 222507" src="https://github.com/user-attachments/assets/1836a2c6-5572-4b9d-b613-26ac7c23bb96" />
+
+Para la adquisición de la señal el ánodo y el cátodo del sensor bipolar EEG se colocaron en las posiciones Fp1 y Fp2, respectivamente, en cada una de estas posiciones se emplearon dos electrodos de gel con una separación mínima entre ellos, lo que permitió realizar adecuadamente la conexión de los terminales del sensor en configuración bipolar. Aparte, el electrodo de tierra o referencia se ubicó detrás de una de las orejas del sujeto, con el propósito de estabilizar la medición.
+
+<img width="816" height="447" alt="Screenshot 2026-05-17 222558" src="https://github.com/user-attachments/assets/fad30d66-6f85-464e-8473-661a3856c53d" />
+
+Antes de iniciar la adquisición de datos se verificó que los electrodos tuvieran un adecuado contacto con la piel y que las conexiones entre el sensor EEG, los electrodos y la placa BITalino fueran correctas, y se comprobó la correcta configuración del software OpenSignals. Las mediciones fueron realizadas en un ambiente controlado teniendo en cuenta que la iluminación no fuera excesivamente intensa ni encandilante, ya que una exposición visual incómoda podría inducir movimientos oculares, parpadeos involuntarios o cambios en el estado de concentración del sujeto.
+
+Posteriormente, se dio inicio al registro de datos en una serie de escenarios experimentales se tuvo en cuenta que durante las mediciones de reposo, se indicó al sujeto que evitara realizar movimientos corporales, faciales u oculares, y que se mantuviera consciente y atento, sin entrar en un estado de somnolencia profunda o trance, porque estos cambios también pueden modificar la actividad registrada.
+
+1. Medición en reposo sin percepción visual: En el primer escenario, se puso una venda sobre los ojos del sujeto y se utilizaron audífonos con cancelación de ruido, bajo estas condiciones, se registró la señal EEG mientras el sujeto permanecía en reposo sin percepción del entorno.
+
+2. Medición con percepción visual fija: En el segundo escenario, se retiro la venda de los ojos y se registró la señal EEG mientras el sujeto mantenía la mirada dirigida hacia un punto fijo.
+
+3. Segunda medición en reposo sin percepción visual: En el tercer escenario, se volvió a colocar la venda sobre los ojos del sujeto y se repitiO la medicion en reposo sin percepcion visual.
+
+4. Medición con generación de artefactos por parpadeo y masticación: En el cuarto escenario, se retiró nuevamente la venda y se solicitó al sujeto que realizara parpadeos repetidos y movimientos de masticación de manera simultánea.
+
+5. Tercera medición en reposo sin percepción visual: En el quinto escenario, se colocó nuevamente la venda sobre los ojos del sujeto y se realizó otra medición en reposo sin percepción visual.
+
+6. Medición con exposición a música relajante: En el sexto escenario, se mantuvo la venda colocada y se reprodujo música relajante a través de los audífonos con cancelación de ruido.
+
+7. Medición con exposición a música estresante: Finalmente en el séptimo escenario, se mantuvo la misma configuración con la venda colocada y los audífonos pero se reemplazó la música relajante por música estresante.
 
 ### Desarrollo en laboratorio - Evidencia: 
 
