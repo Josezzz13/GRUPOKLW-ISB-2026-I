@@ -53,13 +53,23 @@ Para la ejecución de este procedimiento, se emplearon los siguientes materiales
 - Audífonos con cancelación de ruido.
 - Venda para bloquear la percepción visual.
 
-Como etapa inicial del procedimiento se realizó la identificación de los puntos anatómicos adecuados para la colocación de los electrodos seguido a ello con la limpieza de aquella zona. En este caso, se trabajó con una configuración bipolar ubicada en la región frontal, específicamente en las posiciones Fp1 y Fp2, correspondientes al sistema internacional 10–20 de colocación de electrodos para la medicion de EEG.
+Como etapa inicial del procedimiento se realizó la identificación de los puntos anatómicos adecuados para la colocación de los electrodos seguido a ello con la limpieza de aquella zona. En este caso, se trabajó con una configuración bipolar ubicada en la región frontal, específicamente en las posiciones Fp1 y Fp2, correspondientes al sistema internacional 10–20 de colocación de electrodos para la medicion de EEG [2].
 
-<img width="417" height="406" alt="Screenshot 2026-05-17 222507" src="https://github.com/user-attachments/assets/1836a2c6-5572-4b9d-b613-26ac7c23bb96" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1836a2c6-5572-4b9d-b613-26ac7c23bb96" height="400"/>
+</p>
+<p align="center">
+  <b>Configuración de ubicación y polaridad de electrodos [2]
+</p>
 
-Para la adquisición de la señal el ánodo y el cátodo del sensor bipolar EEG se colocaron en las posiciones Fp1 y Fp2, respectivamente, en cada una de estas posiciones se emplearon dos electrodos de gel con una separación mínima entre ellos, lo que permitió realizar adecuadamente la conexión de los terminales del sensor en configuración bipolar. Aparte, el electrodo de tierra o referencia se ubicó detrás de una de las orejas del sujeto, con el propósito de estabilizar la medición.
+Para la adquisición de la señal el ánodo y el cátodo del sensor bipolar EEG se colocaron en las posiciones Fp1 y Fp2, respectivamente, en cada una de estas posiciones se emplearon dos electrodos de gel con una separación mínima entre ellos, lo que permitió realizar adecuadamente la conexión de los terminales del sensor en configuración bipolar. Aparte, el electrodo de tierra o referencia se ubicó detrás de una de las orejas del sujeto, con el propósito de estabilizar la medición [2].
 
-<img width="816" height="447" alt="Screenshot 2026-05-17 222558" src="https://github.com/user-attachments/assets/fad30d66-6f85-464e-8473-661a3856c53d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fad30d66-6f85-464e-8473-661a3856c53d" height="400"/>
+</p>
+<p align="center">
+  <b>Correcta conexión de electrodos [2]
+</p>
 
 Antes de iniciar la adquisición de datos se verificó que los electrodos tuvieran un adecuado contacto con la piel y que las conexiones entre el sensor EEG, los electrodos y la placa BITalino fueran correctas, y se comprobó la correcta configuración del software OpenSignals. Las mediciones fueron realizadas en un ambiente controlado teniendo en cuenta que la iluminación no fuera excesivamente intensa ni encandilante, ya que una exposición visual incómoda podría inducir movimientos oculares, parpadeos involuntarios o cambios en el estado de concentración del sujeto.
 
