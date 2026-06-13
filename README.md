@@ -11,3 +11,6 @@ Repositorio del grupo Kam Lu Wantan para el curso de Introducción a señales Bi
 ├── Proyecto/                       # Entregables del proyecto, código y data
 └── README.md
 ```
+## 👥 Integrantes
+| Foto | Nombre | Rol en el equipo | Contacto |
+|---|---|---|---|
