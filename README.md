@@ -13,8 +13,7 @@ Repositorio del grupo Kam Lu Wantan para el curso de Introducción a señales Bi
 ```
 ## 📌Proyecto
 <p align="justify">
-Influencia del consumo de contenido audiovisual de corta duración en la atención sostenida y los patrones electroencefalográficos de estudiantes universitarios de Ingeniería Biomédica.
-El proyecto investiga el impacto que tienen los videos cortos difundidos en plataformas digitales sobre la capacidad de atención sostenida de estudiantes universitarios, utilizando señales electroencefalográficas (EEG) como herramienta de evaluación neurofisiológica.
+Evaluación del impacto del consumo de contenido audiovisual de corta duración sobre la atención sostenida y los patrones electroencefalográficos de estudiantes universitarios de Ingeniería Biomédica.
 </p>
 
 ### Descripción
