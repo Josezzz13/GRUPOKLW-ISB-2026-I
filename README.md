@@ -16,13 +16,15 @@ Repositorio del grupo Kam Lu Wantan para el curso de Introducción a señales Bi
 Influencia del consumo de contenido audiovisual de corta duración en la atención sostenida y los patrones electroencefalográficos de estudiantes universitarios de Ingeniería Biomédica.
 El proyecto investiga el impacto que tienen los videos cortos difundidos en plataformas digitales sobre la capacidad de atención sostenida de estudiantes universitarios, utilizando señales electroencefalográficas (EEG) como herramienta de evaluación neurofisiológica.
 </p>
+
 ### Descripción
-Este estudio tiene como objetivo evaluar cómo la exposición a contenido audiovisual de corta duración influye en la actividad cerebral relacionada con la atención sostenida. Para ello, se registrarán señales EEG de estudiantes universitarios antes y después de visualizar videos cortos.
-Las señales obtenidas serán procesadas mediante técnicas de filtrado y análisis espectral para identificar cambios en las bandas Theta, Alfa y Beta, asociadas a procesos cognitivos como la atención, la concentración y la carga mental. Asimismo, se emplearán cuestionarios validados para caracterizar los hábitos de consumo de redes sociales y videos cortos de los participantes.
+<p align="justify">
+Este estudio tiene como objetivo evaluar cómo la exposición a contenido audiovisual de corta duración influye en la actividad cerebral relacionada con la atención sostenida. Para ello, se registrarán señales EEG de estudiantes universitarios antes y después de visualizar videos cortos.Las señales obtenidas serán procesadas mediante técnicas de filtrado y análisis espectral para identificar cambios en las bandas Theta, Alfa y Beta, asociadas a procesos cognitivos como la atención, la concentración y la carga mental. Asimismo, se emplearán cuestionarios validados para caracterizar los hábitos de consumo de redes sociales y videos cortos de los participantes. </p>
 
 ### Motivación
-El consumo de videos cortos en plataformas como TikTok, Instagram Reels y YouTube Shorts se ha convertido en una actividad cotidiana entre los jóvenes universitarios. Aunque este tipo de contenido ofrece acceso rápido a información y entretenimiento, diversos estudios sugieren que la exposición frecuente a estímulos audiovisuales altamente dinámicos podría afectar la atención sostenida y otros procesos cognitivos relevantes para el aprendizaje.
-Dado que la atención es una capacidad fundamental para el desempeño académico y profesional, resulta importante comprender si estos nuevos hábitos digitales generan cambios medibles en la actividad cerebral. Por ello, este proyecto busca aportar evidencia científica sobre la relación entre el consumo de videos cortos y los patrones neurofisiológicos asociados a la atención, contribuyendo al desarrollo de estrategias que promuevan un uso más consciente de las plataformas digitales.
+<p align="justify">
+El consumo de videos cortos en plataformas como TikTok, Instagram Reels y YouTube Shorts se ha convertido en una actividad cotidiana entre los jóvenes universitarios. Aunque este tipo de contenido ofrece acceso rápido a información y entretenimiento, diversos estudios sugieren que la exposición frecuente a estímulos audiovisuales altamente dinámicos podría afectar la atención sostenida y otros procesos cognitivos relevantes para el aprendizaje. Dado que la atención es una capacidad fundamental para el desempeño académico y profesional, resulta importante comprender si estos nuevos hábitos digitales generan cambios medibles en la actividad cerebral. Por ello, este proyecto busca aportar evidencia científica sobre la relación entre el consumo de videos cortos y los patrones neurofisiológicos asociados a la atención, contribuyendo al desarrollo de estrategias que promuevan un uso más consciente de las plataformas digitales.
+</p>
 
 ## 👥 Integrantes
 | Foto | Nombre | Rol en el equipo | Contacto |
