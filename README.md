@@ -11,6 +11,11 @@ Repositorio del grupo Kam Lu Wantan para el curso de Introducción a señales Bi
 ├── Proyecto/                       # Entregables del proyecto, código y data
 └── README.md
 ```
+## 👥 Integrantes
+  
+| Foto | Nombre | Rol en el equipo | Contacto |
+|---|---|---|---|
+
 <details> 
   <summary><h2>📌 Proyecto</h2></summary>
   
@@ -26,8 +31,3 @@ Este estudio tiene como objetivo evaluar cómo la exposición a contenido audiov
 <p align="justify">
 El consumo de videos cortos en plataformas como TikTok, Instagram Reels y YouTube Shorts se ha convertido en una actividad cotidiana entre los jóvenes universitarios. Aunque este tipo de contenido ofrece acceso rápido a información y entretenimiento, diversos estudios sugieren que la exposición frecuente a estímulos audiovisuales altamente dinámicos podría afectar la atención sostenida y otros procesos cognitivos relevantes para el aprendizaje. Dado que la atención es una capacidad fundamental para el desempeño académico y profesional, resulta importante comprender si estos nuevos hábitos digitales generan cambios medibles en la actividad cerebral. Este proyecto busca aportar evidencia científica sobre la relación entre el consumo de videos cortos y los patrones neurofisiológicos asociados a la atención.
 </p>
-
-## 👥 Integrantes
-  
-| Foto | Nombre | Rol en el equipo | Contacto |
-|---|---|---|---|
