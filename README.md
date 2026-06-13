@@ -15,7 +15,7 @@ Repositorio del grupo Kam Lu Wantan para el curso de Introducción a señales Bi
   
 | Foto | Nombre | Rol en el equipo | Contacto |
 |---|---|---|---|
-
+|---|Daniel Bagkdan Cárdenas Paniagua|DSP Developer Junior|daniel.cardenas.p@upch.pe|
 <details> 
   <summary><h2>📌 Proyecto</h2></summary>
   
