@@ -28,6 +28,8 @@ El consumo de videos cortos en plataformas como TikTok, Instagram Reels y YouTub
 </p>
 
 <details> 
+  
+<details> 
   <summary><h2>👥 Integrantes</h2></summary>
   
 | Foto | Nombre | Rol en el equipo | Contacto |
