@@ -12,7 +12,7 @@ Repositorio del grupo Kam Lu Wantan para el curso de Introducción a señales Bi
 └── README.md
 ```
 <details> 
-  <summary><strong>📌 Proyecto</strong></summary>
+  <summary><h2>📌 Proyecto</h2></summary>
   
 <p align="justify">
 Evaluación del impacto del consumo de contenido audiovisual de corta duración sobre la atención sostenida y los patrones electroencefalográficos de estudiantes universitarios de Ingeniería Biomédica.
