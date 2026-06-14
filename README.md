@@ -19,7 +19,7 @@ Repositorio del grupo Kam Lu Wantan para el curso de Introducción a señales Bi
 |---|José Alonso Zapata Castro|Software Developer|jose.zapata.c@upch.pe|
 |---|Matías Rubiños|General Coordination|@upch.pe|
 |---|Maria Celina Soto Casasola|General Coordination|maria.soto.casasola@upch.pe|
-|<img width="240" height="320" alt="intro foto" src="https://github.com/user-attachments/assets/2dba58e3-b075-467e-9bfe-d2769f7ecd31" />|Astrid Nayeli Fuentes Hurtado|General Coordination|astrid.fuentes@upch.pe|
+|<img width="240" height="300" alt="intro foto" src="https://github.com/user-attachments/assets/2dba58e3-b075-467e-9bfe-d2769f7ecd31" />|Astrid Nayeli Fuentes Hurtado|General Coordination|astrid.fuentes@upch.pe|
 
 
 <details> 
