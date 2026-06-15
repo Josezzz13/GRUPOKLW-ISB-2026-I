@@ -2,6 +2,8 @@
 # GRUPO 3 - KLM  
 ![Curso ](https://img.shields.io/badge/Curso-ISB%202026--1-0366d6?style=flat-square&logoColor=white) ![Estado](https://img.shields.io/badge/Estado-En%20proceso-d4a017?style=flat-square)
 
+<img width="1376" height="768" alt="emg_eeg_ecg_image_generate_ia" src="https://github.com/user-attachments/assets/017ebec3-5b1e-45dc-a0a2-f7f1dafb12c4" />
+
 Repositorio del grupo Kam Lu Wantan para el curso de Introducción a señales Biomédicas en el ciclo 2026-I.
 
 ## Estructura del repositorio
@@ -17,7 +19,7 @@ Repositorio del grupo Kam Lu Wantan para el curso de Introducción a señales Bi
 |---|---|---|---|
 |---|Daniel Bagkdan Cárdenas Paniagua|DSP Developer Junior|daniel.cardenas.p@upch.pe|
 |<img width="510" height="556" alt="ftcv" src="https://github.com/user-attachments/assets/976049bf-72f5-4bd9-b44f-e16e47fa48c0" />|José Alonso Zapata Castro|Software Developer|jose.zapata.c@upch.pe|
-|---|Matías Rubiños|General Coordination|@upch.pe|
+|---|Matías Enrique Rubiños Egusquiza|General Coordination|matias.rubinos@upch.pe|
 |---|Maria Celina Soto Casasola|General Coordination|maria.soto.casasola@upch.pe|
 |<img width="240" height="300" alt="intro foto" src="https://github.com/user-attachments/assets/2dba58e3-b075-467e-9bfe-d2769f7ecd31" />|Astrid Nayeli Fuentes Hurtado|General Coordination|astrid.fuentes@upch.pe|
 
