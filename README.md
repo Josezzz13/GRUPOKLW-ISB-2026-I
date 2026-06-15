@@ -2,7 +2,7 @@
 # GRUPO 3 - KLM  
 ![Curso ](https://img.shields.io/badge/Curso-ISB%202026--1-0366d6?style=flat-square&logoColor=white) ![Estado](https://img.shields.io/badge/Estado-En%20proceso-d4a017?style=flat-square)
 
-<img width="800" height="400" alt="emg_eeg_ecg_image_generate_ia" src="https://github.com/user-attachments/assets/017ebec3-5b1e-45dc-a0a2-f7f1dafb12c4" />
+<img width="800" height="450" alt="emg_eeg_ecg_image_generate_ia" src="https://github.com/user-attachments/assets/017ebec3-5b1e-45dc-a0a2-f7f1dafb12c4" />
 
 Repositorio del grupo Kam Lu Wantan para el curso de Introducción a señales Biomédicas en el ciclo 2026-I.
 
