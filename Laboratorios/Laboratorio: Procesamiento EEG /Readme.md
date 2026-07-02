@@ -19,11 +19,10 @@
 </div>
 
 
-[Metodología](#Metodología)
-j
-[Resultados](#Resultados)
+[Metodología]
+[Resultados]
 
-[Conclusiones](#Conclusiones)
+[Conclusiones]
 
 
   
