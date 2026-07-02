@@ -18,3 +18,8 @@
 
 </div>
 
+[Introducción](#Introducción)
+[Metodología](#Metodología)
+[Resultados](#Resultados)
+[Conclusiones](#Conclusiones)
+
