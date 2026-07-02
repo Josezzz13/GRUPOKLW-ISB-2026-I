@@ -18,9 +18,6 @@
 
 </div>
 
-[Metodología](#Metodología)
-
-  
 ## Metodología
 
 ## Resultados
