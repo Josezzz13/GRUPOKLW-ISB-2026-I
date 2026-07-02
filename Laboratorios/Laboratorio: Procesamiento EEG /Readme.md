@@ -18,12 +18,7 @@
 
 </div>
 
-
-[Metodología]
-[Resultados]
-
-[Conclusiones]
-
+[Metodología](#Metodología)
 
   
 ## Metodología
