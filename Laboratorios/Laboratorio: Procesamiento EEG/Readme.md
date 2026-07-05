@@ -66,3 +66,8 @@ A partir de la medición de un participante durante la lectura del texto estable
 
 ## Conclusiones
 
+## Bibliografía
+[1] ResearchGate, "Figura 3. Sistema Internacional 10-20 para la colocación de los electrodos," Imagen, [En línea]. Disponible en: https://www.researchgate.net/figure/Figura-3-Sistema-Internacional-10-20-para-la-colocacion-de-los-electrodos_fig2_282294960
+
+[2] PLUX Biosignals, “HomeGuide3 EEG,” Manual técnico, 2022. [En línea]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf.
+
