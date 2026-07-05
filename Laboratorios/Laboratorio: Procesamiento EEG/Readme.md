@@ -25,12 +25,22 @@ Para la adquisición y el procesamiento de señales electroencefalográficas, se
 - Computadora portátil con la aplicación Open Signals instalada.
 - Cronómetro de un dispositivo móvil.
 Primero, se realizó la identificación de los puntos anatómicos adecuados para obtener las señales de interés dentro de las limitaciones de medición (no se puede hacer mediciones en el cuero cabelludo debido al cabello). En este caso, se trabajó con canales Fp1 y Fp2 ubicados en la región frontal correspondientes al sistema internacional 10–20 de colocación de electrodos para la medición de EEG que pueden observarse en la Figura 1. 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1836a2c6-5572-4b9d-b613-26ac7c23bb96" height="400"/>
+</p>
+<p align="center">
+  <b>Figura 1:</b> Sistema internacional 10-20 de distribución anatómica de canales de EEG [1]
+</p>
 
-Figura 1: Sistema internacional 10-20 de distribución anatómica de canales de EEG [a].
 
 Adicionalmente, se colocó un electrodo de referencia en la apófisis mastoides, con el objetivo de estabilizar la medición, siguiendo las indicaciones de la guía de laboratorio de BITalino para EEG, como se muestra en la Figura 2.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fad30d66-6f85-464e-8473-661a3856c53d" height="400"/>
+</p>
+<p align="center">
+  <b>Figura 2:</b> Ubicación de electrodos bipolares y el de referencia para lectura de canales EEG Fp1 y Fp [2]
+</p>
 
-Figura 2: Ubicación de electrodos bipolares y el de referencia para lectura de canales EEG Fp1 y Fp2 [b].
 Luego, se escoge una lectura de muy difícil legibilidad de acuerdo al Índice de Legibilidad de Flesch-Szigriszt determinado por la siguiente ecuación:
 IFSZ=206,835-(62,3  SP)-(PF), donde S, P y F son la cantidad de sílabas, palabras y frases/oraciones del texto correspondientemente.
 Además, se consideró que la temática del texto estuviera fuera del dominio académico de los participantes de este proyecto de investigación. En este caso, se trata de un texto sobre política interior de Palestina que se presenta a continuación:
