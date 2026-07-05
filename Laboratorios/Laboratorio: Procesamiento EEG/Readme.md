@@ -26,7 +26,7 @@ Para la adquisición y el procesamiento de señales electroencefalográficas, se
 - Cronómetro de un dispositivo móvil.
 Primero, se realizó la identificación de los puntos anatómicos adecuados para obtener las señales de interés dentro de las limitaciones de medición (no se puede hacer mediciones en el cuero cabelludo debido al cabello). En este caso, se trabajó con canales Fp1 y Fp2 ubicados en la región frontal correspondientes al sistema internacional 10–20 de colocación de electrodos para la medición de EEG que pueden observarse en la Figura 1. 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1836a2c6-5572-4b9d-b613-26ac7c23bb96" height="400"/>
+  <img src="[https://github.com/user-attachments/assets/1836a2c6-5572-4b9d-b613-26ac7c23bb96](https://www.researchgate.net/profile/Carlos_Novo-Olivas/publication/282294960/figure/fig2/AS:391565940936705@1470368003555/Figura-3-Sistema-Internacional-10-20-para-la-colocacion-de-los-electrodos.png)" height="400"/>
 </p>
 <p align="center">
   <b>Figura 1:</b> Sistema internacional 10-20 de distribución anatómica de canales de EEG [1]
