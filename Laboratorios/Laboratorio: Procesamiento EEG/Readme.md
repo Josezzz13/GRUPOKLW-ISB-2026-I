@@ -70,25 +70,25 @@ A partir de la medición de un participante durante la lectura del texto estable
 - Estructura del objeto MNE: Se cargo la señal en un objeto con una frecuencia de muestreo de 100 Hz registrado 80001 puntos de tiempo (duracion de 01:21 min) que fueron mapeados sobre 64 canales.
 - Filtro de Paso Alto: Se aplico un filtro FIR de fase cero con ventana de Hamming con un limite de 1 Hz con un frecuencia de corte de -6dB en 0.5 Hz para eliminar derivas del baseline y estabilizar la señal.
 
-## 2) Descomposicion por ICA
+### 2) Descomposicion por ICA
 - Ajuste del Algoritmo: Se utilizo el metodo de optimizacion Picard restringido a un maximo de 500 iteraciones.
 - Convergencia: El algoritmo convergio de forma rapido en 91 iteraciones, reduciendo la varianza a partir de 64 componentes de PCA para extraer 2 componentes independientes (ICA) principales.
 
-## 3) Identificacion Visual y Espacial de Artefactos
+### 3) Identificacion Visual y Espacial de Artefactos
 - Analisis Temporal: Mientras que la componente ICA000 se mantuvo relativamente homogenea, la componente ICA001 muestra deflexiones transitorias destacando un pico de ruido a los 12.5 segundos.
 - Localizacion Espacial: La componente ICA000 se concentro en la zona frontal izquierda mientras que ICA001 exhibio una fuerte polarizacion en la region frontal anterior derecha que coincide justamente con el electrodo Fp2.
 - Diagnostico de ICA001: Al evaluar 40 segmentos temporales, la componente arrrojo
 ciertos picos de varianza (segmentos 6 y 19) y una caida espectral de artefactos musculares u oculares.
 
-## 4) Seleccion y Exclusion de Componentes
+### 4) Seleccion y Exclusion de Componentes
 - Criterio Automatico: Con una ventana de 2.048 segundos la deteccion automatizada no arrojo marcas criticas de ruido muscular de forma independiente.
 - Criterio Manual: En los mapas topograficos y señales la componente ICA001 correspondia a un artefacto muscular frontal derecho, se marco manualmente para su exclusion registrando un score de 0.00078.
 
-## 5) Reconstruccion y Señal EEG Limpia
+### 5) Reconstruccion y Señal EEG Limpia
 Tras aplicar la proyeccion inversa para eliminar la componente ICA001, se evaluaron los 3 primeros segundos de la señal reconstruida:
 - Datos EEG Crudos: La señal original presentaba un artefacto muscular masivo en el segundo 0.5 que caia drasticamente hasta los -200 unidades arbitrarias, mientras que en la señal corregida este artefacto fue completamente suprimido
 - Potencial de Campo Global: El pico de energia artifical es de 30 unidades provocado por el ruido en el segundo 0.5 disminuyo sustancialmente en la señal corregida regresando a valores basales.
-- Promedio de Canales: El trazo promedio se mantuvo igual tanto antes y despues de la limpieza, esto demuestra que el algoritmo ICA elimino con exito el ruido del electrodo prefrontal derecho sin alterar ni perder informacion general del resto del registro.
+- Promedio de Canales: El trazo promedio se mantuvo igual tanto antes y despues de la limpieza, esto demuestra que el algoritmo ICA tiene un mejor funcionamiento con sistemas de varios canales, es decir, de señales obtenidas a partir del posicionamiento de varios electrodos, como solo se contaba con 2 en este caso, en la posicion fp1 y fp2 no se logro obtener mayor referencia o atenuación, dado que la desviación estandar entre ambas señales en ek rango de tiempo seleccionado (20-100 segundos) no presentaba mayor diferencia entre ambos, por lo que se puede observar que ambas señales se sobreponen.
 
 ## Conclusiones
 
