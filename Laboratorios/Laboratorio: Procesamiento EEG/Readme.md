@@ -93,6 +93,11 @@ Tras aplicar la proyeccion inversa para eliminar la componente ICA001, se evalua
 - Promedio de Canales: El trazo promedio se mantuvo igual tanto antes y despues de la limpieza, esto demuestra que el algoritmo ICA tiene un mejor funcionamiento con sistemas de varios canales, es decir, de señales obtenidas a partir del posicionamiento de varios electrodos, como solo se contaba con 2 en este caso, en la posicion fp1 y fp2 se observa una atenuación en los picos mas marcados atribuibles a movimientos parpadeos y movimientos musculares.
 
 ## Conclusiones
+- La aplicación de ICA permitió identificar y reducir componentes asociadas a artefactos presentes en la señal EEG adquirida durante la lectura de un texto de alta dificultad. En particular, la componente ICA001 mostró un comportamiento compatible con ruido muscular u ocular localizado principalmente en la región frontal derecha, por lo que su exclusión contribuyó a mejorar la calidad de la señal reconstruida.
+
+- El preprocesamiento mediante filtros pasa banda y notch fue fundamental para estabilizar la señal, reducir derivas de línea base y atenuar interferencias eléctricas, permitiendo una mejor interpretación de los datos antes de aplicar la descomposición por componentes independientes.
+
+- La reconstrucción de la señal evidenció una disminución considerable de artefactos abruptos, especialmente en los primeros segundos del registro, donde la señal corregida mostró un comportamiento más estable en comparación con la señal original.Sin embargo, se reconoce que la eficacia del ICA estuvo limitada por el reducido número de canales disponibles, ya que solo se trabajó con Fp1 y Fp2. Esto restringe la capacidad del algoritmo para separar con mayor precisión las fuentes cerebrales y los artefactos, debido a que el ICA ofrece mejores resultados en sistemas multicanal.
 
 ## Bibliografía
 [1] ResearchGate, "Figura 3. Sistema Internacional 10-20 para la colocación de los electrodos," Imagen, [En línea]. Disponible en: https://www.researchgate.net/figure/Figura-3-Sistema-Internacional-10-20-para-la-colocacion-de-los-electrodos_fig2_282294960
