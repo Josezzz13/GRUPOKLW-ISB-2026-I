@@ -66,8 +66,10 @@ A partir de la medición de un participante durante la lectura del texto estable
 - comparación la señal original y la señal corregida.
 
 ## Resultados
+Tras la obtencion de la señal filtrada mediante Notch a 60 Hz y filtro pasa banda de 0.5 a 40 Hz, se obtuvo un archivo .txt el cual fue cargado para el procesamiento con ICA, realizando los siguientes pasos:
+
 ### 1) Configuracion de Datos y Filtrado
-- Estructura del objeto MNE: Se cargo la señal en un objeto con una frecuencia de muestreo de 100 Hz registrado 80001 puntos de tiempo (duracion de 01:21 min) que fueron mapeados sobre 64 canales.
+- Estructura del objeto MNE: Se cargo la señal en un objeto con una frecuencia de muestreo de 1000 Hz registrado 80001 puntos de tiempo (duracion de 01:21 min), en este caso se considero de 20 a 100 segundos, para optimizar el tiempo de carga, excluyendo los primeros 20 segundos que sugieren movimientos iniciales antes de realizar el ejercicio; fueron mapeados sobre 64 canales, completados con ceros, de los cuales unicamente 2 canales contaban con señal obtenida por el NeuroBIT (en las posiciones fp1 y fp2).
 - Filtro de Paso Alto: Se aplico un filtro FIR de fase cero con ventana de Hamming con un limite de 1 Hz con un frecuencia de corte de -6dB en 0.5 Hz para eliminar derivas del baseline y estabilizar la señal.
 
 ### 2) Descomposicion por ICA
