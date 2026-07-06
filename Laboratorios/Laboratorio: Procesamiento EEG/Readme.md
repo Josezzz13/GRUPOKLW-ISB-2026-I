@@ -42,7 +42,9 @@ Adicionalmente, se colocó un electrodo de referencia en la apófisis mastoides,
 </p>
 
 Luego, se escoge una lectura de muy difícil legibilidad de acuerdo al Índice de Legibilidad de Flesch-Szigriszt determinado por la siguiente ecuación:
-<img width="587" height="74" alt="Image" src="https://github.com/user-attachments/assets/713960c5-7e42-43db-98a8-f28cfaa0c9c6" />
+
+<img width="587" height="74" alt="Image" src="https://github.com/user-attachments/assets/713960c5-7e42-43db-98a8-f28cfaa0c9c6"/>
+
 donde S, P y F son la cantidad de sílabas, palabras y frases/oraciones del texto correspondientemente.
 Además, se consideró que la temática del texto estuviera fuera del dominio académico de los participantes de este proyecto de investigación. En este caso, se trata de un texto sobre política interior de Palestina que se presenta a continuación:
 
