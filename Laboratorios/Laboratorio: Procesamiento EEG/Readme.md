@@ -66,6 +66,18 @@ A partir de la medición de un participante durante la lectura del texto estable
 - comparación la señal original y la señal corregida.
 
 ## Resultados
+## 1) Configuracion de Datos y Filtrado
+- Estructura del objeto MNE: Se cargo la señal en un objeto con una frecuencia de muestreo de 100 Hz registrado 80001 puntos de tiempo (duracion de 01:21 min) que fueron mapeados sobre 64 canales.
+- Filtro de Paso Alto: Se aplico un filtro FIR de fase cero con ventana de Hamming con un limite de 1 Hz con un frecuencia de corte de -6dB en 0.5 Hz para eliminar derivas del baseline y estabilizar la señal.
+
+## 2) Descomposicion por ICA
+- Ajuste del Algoritmo: Se utilizo el metodo de optimizacion Picard restringido a un maximo de 500 iteraciones.
+- Convergencia: El algoritmo convergio de forma rapido en 91 iteraciones, reduciendo la varianza a partir de 64 componentes de PCA para extraer 2 componentes independientes (ICA) principales.
+
+## 3) Identificacion Visual y Espacial de Artefactos
+- Analisis Temporal: Mientras que la componente ICA000 se mantuvo relativamente homogenea, la componente ICA001 muestra deflexiones transitorias destacando un pico de ruido a los 12.5 segundos.
+- Localizacion Espacial: La componente ICA000 se concentro en la zona frontal izquierda mientras que ICA001 exhibio una fuerte polarizacion en la region frontal anterior derecha que coincide justamente con el electrodo Fp2.
+- Diagnostico de ICA001: Al evaluar 40 segmentos temporales, la componente
 
 ## Conclusiones
 
