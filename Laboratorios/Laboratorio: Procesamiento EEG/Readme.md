@@ -90,7 +90,7 @@ ciertos picos de varianza (segmentos 6 y 19) y una caida espectral de artefactos
 Tras aplicar la proyeccion inversa para eliminar la componente ICA001, se evaluaron los 3 primeros segundos de la señal reconstruida:
 - Datos EEG Crudos: La señal original presentaba un artefacto muscular masivo en el segundo 0.5 que caia drasticamente hasta los -200 unidades arbitrarias, mientras que en la señal corregida este artefacto fue completamente suprimido
 - Potencial de Campo Global: El pico de energia artifical es de 30 unidades provocado por el ruido en el segundo 0.5 disminuyo sustancialmente en la señal corregida regresando a valores basales.
-- Promedio de Canales: El trazo promedio se mantuvo igual tanto antes y despues de la limpieza, esto demuestra que el algoritmo ICA tiene un mejor funcionamiento con sistemas de varios canales, es decir, de señales obtenidas a partir del posicionamiento de varios electrodos, como solo se contaba con 2 en este caso, en la posicion fp1 y fp2 no se logro obtener mayor referencia o atenuación, dado que la desviación estandar entre ambas señales en ek rango de tiempo seleccionado (20-100 segundos) no presentaba mayor diferencia entre ambos, por lo que se puede observar que ambas señales se sobreponen.
+- Promedio de Canales: El trazo promedio se mantuvo igual tanto antes y despues de la limpieza, esto demuestra que el algoritmo ICA tiene un mejor funcionamiento con sistemas de varios canales, es decir, de señales obtenidas a partir del posicionamiento de varios electrodos, como solo se contaba con 2 en este caso, en la posicion fp1 y fp2 se observa una atenuación en los picos mas marcados atribuibles a movimientos parpadeos y movimientos musculares.
 
 ## Conclusiones
 
