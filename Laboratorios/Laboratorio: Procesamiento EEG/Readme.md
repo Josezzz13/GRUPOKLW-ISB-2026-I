@@ -66,7 +66,7 @@ A partir de la medición de un participante durante la lectura del texto estable
 - comparación la señal original y la señal corregida.
 
 ## Resultados
-## 1) Configuracion de Datos y Filtrado
+### 1) Configuracion de Datos y Filtrado
 - Estructura del objeto MNE: Se cargo la señal en un objeto con una frecuencia de muestreo de 100 Hz registrado 80001 puntos de tiempo (duracion de 01:21 min) que fueron mapeados sobre 64 canales.
 - Filtro de Paso Alto: Se aplico un filtro FIR de fase cero con ventana de Hamming con un limite de 1 Hz con un frecuencia de corte de -6dB en 0.5 Hz para eliminar derivas del baseline y estabilizar la señal.
 
