@@ -121,5 +121,6 @@ En la primera actividad, correspondiente a la lectura, se logró observar una cl
 | Lectura post-videos               | ~1600      | ~1800     | ~350       | ~150      | ~850  | ~450  | ~500       | Disminución de concentración, menor activación cognitiva.                       |
 | Cuestionario post-videos          | ~2500      | ~2500     | ~550       | ~200      | ~850  | ~450  | ~500       | Máxima concentración, hiperactivación cognitiva, rebote atencional.             |
 
-[Anexo 3. Tabla de resumen con los valores obtenidos en NEUROREAD.pdf](https://github.com/user-attachments/files/29875472/Anexo.3.Tabla.de.resumen.con.los.valores.obtenidos.en.NEUROREAD.pdf)
+[Anexo.3.Tabla.de.resumen.con.los.valores.obtenidos.en.NEUROREAD.pdf](https://github.com/user-attachments/files/29875514/Anexo.3.Tabla.de.resumen.con.los.valores.obtenidos.en.NEUROREAD.pdf)
+
 
