@@ -118,6 +118,15 @@ En la primera actividad, correspondiente a la lectura, se logró observar una cl
 
 <div align="justify">Anexo 2. Cuadro obtenido a partir de las gráficas obtenidas por NEUROREAD.</div>
 <br>
+<div align="justify">Persona 1:</div>
+
+| Situación                          | Beta total | Beta alta | Beta media | Beta baja | Theta | Alpha | Gamma baja | Interpretación                                                                 |
+|-----------------------------------|------------|-----------|------------|-----------|-------|-------|------------|--------------------------------------------------------------------------------|
+| Lectura inicial (antes de videos) | ~320       | ~300      | ~150       | ~90       | ~500  | ~240  | ~90        | Dominancia de Theta y Alpha, atención moderada y más cercana a relajación que a concentración intensa. |
+| Cuestionario inicial (antes)      | ~2000      | ~500      | ~200       | ~120      | ~1750 | ~1400 | ~400       | Activación cognitiva significativa, Beta dominante junto con Theta elevada; concentración moderada con procesamiento interno. |
+| Lectura post-videos               | ~320       | ~145      | ~125       | ~75       | ~500  | ~240  | ~90        | Disminución clara de concentración, predominio de Theta; menor activación cognitiva focalizada. |
+| Cuestionario post-videos          | ~470       | ~300      | ~150       | ~100      | ~780  | ~430  | ~110       | Activación cognitiva moderada, Theta dominante; concentración suficiente pero sin hiperactivación, atención más equilibrada. |
+<br>
 <div align="justify">Persona 2:</div>
 
 | Situación                          | Beta total | Beta alta | Beta media | Beta baja | Theta | Alpha | Gamma baja | Interpretación                                                                 |
@@ -126,6 +135,16 @@ En la primera actividad, correspondiente a la lectura, se logró observar una cl
 | Cuestionario inicial (antes)      | ~1800      | ~1800     | ~350       | ~150      | ~850  | ~450  | ~500       | Atención sostenida, esfuerzo cognitivo moderado.                                |
 | Lectura post-videos               | ~1600      | ~1800     | ~350       | ~150      | ~850  | ~450  | ~500       | Disminución de concentración, menor activación cognitiva.                       |
 | Cuestionario post-videos          | ~2500      | ~2500     | ~550       | ~200      | ~850  | ~450  | ~500       | Máxima concentración, hiperactivación cognitiva, rebote atencional.             |
+<br>
+<div align="justify">Persona 3:</div>
+
+| Situación                          | Beta total | Beta alta | Beta media | Beta baja | Theta | Alpha | Gamma baja | Interpretación                                                                 |
+|-----------------------------------|------------|-----------|------------|-----------|-------|-------|------------|--------------------------------------------------------------------------------|
+| Lectura inicial (antes de videos) | ~2000      | ~500      | ~200       | ~120      | ~1750 | ~1400 | ~400       | Alta concentración con Beta dominante y Theta elevada; atención activa con cierto grado de relajación. |
+| Cuestionario inicial (antes)      | >2000      | ~600      | ~300       | ~200      | ~1200 | ~1000 | ~1500      | Activación cognitiva intensa, Beta y Gamma muy elevadas; fuerte integración cognitiva y esfuerzo mental. |
+| Lectura post-videos               | ~3500      | ~730      | ~180       | ~80       | ~1200 | ~1000 | ~2000      | Hiperactivación cognitiva, Beta y Gamma muy altas; concentración extrema durante lectura, a diferencia de otros sujetos. |
+| Cuestionario post-videos          | ~4000      | ~800      | ~250       | ~150      | ~900  | ~600  | ~1500      | Máxima concentración, Beta dominante y Gamma elevada; sobreconcentración con menor Alpha, indicando foco intenso. |
+<br>
 
 <div align="justify">Anexo 3. Tabla de resumen con los valores obtenidos en NEUROREAD.</div>
 <br>
