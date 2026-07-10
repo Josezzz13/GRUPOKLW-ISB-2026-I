@@ -26,16 +26,29 @@ En este contexto, el presente estudio tiene como objetivo analizar la relación 
 </div>
 
 ## Planteamiento del problema 
+
+<div align="justify">
+  
 A pesar del creciente uso de plataformas como TikTok, Instagram Reels y YouTube Shorts, aún no existe un consenso sobre los efectos que el consumo frecuente de videos de corta duración puede tener sobre las funciones cognitivas de los adultos jóvenes. En particular, persiste un problema de trazabilidad entre estudios acerca de su influencia en procesos como la atención sostenida, la concentración, el procesamiento cognitivo y la retención de información, especialmente en estudiantes universitarios, cuyo desempeño académico depende en gran medida de estas capacidades. Si bien estas plataformas pueden favorecer la adquisición de conocimientos mediante contenido educativo breve y accesible, también se ha planteado la posibilidad de que un consumo excesivo afecte negativamente el rendimiento cognitivo. En consecuencia, es necesario evaluar de manera objetiva tanto los posibles beneficios como los riesgos asociados al consumo de este tipo de contenido, evitando asumir que su impacto es exclusivamente positivo o negativo.
 Asimismo, aunque las investigaciones emplean cuestionarios para caracterizar los hábitos de consumo y la actividad electroencefalográfica (EEG) para analizar la respuesta cerebral, existe la necesidad de herramientas que integren ambas aproximaciones dentro de un mismo entorno experimental. La falta de plataformas que permitan combinar la presentación controlada de estímulos audiovisuales, la aplicación de pruebas cognitivas y el registro simultáneo de señales neurofisiológicas limita la obtención de evidencia objetiva sobre la relación entre el consumo de videos cortos y el funcionamiento cognitivo.
 
+</div>
+
 ## Propuesta de solución 
+
+<div align="justify">
+  
 En respuesta a esta necesidad, este trabajo presenta NEUROREAD una plataforma web diseñada para evaluar el impacto del consumo de vídeos de corta duración sobre la dinámica de las ondas beta durante tareas de lectura y respuesta. La plataforma integra la reproducción controlada de videos de corta duración, la aplicación de cuestionarios adaptados, la ejecución de pruebas de retención de información y el registro de la actividad electroencefalográfica (EEG), incorporando un enfoque de neurofeedback que favorece la autorregulación y el monitoreo de la actividad cerebral durante la evaluación. Esta integración permite analizar de forma simultánea variables conductuales y neurofisiológicas, proporcionando una evaluación más objetiva del efecto del consumo de microvideos sobre el funcionamiento cognitivo. 
 
+</div>
+
 ## Resultados 
+
+<div align="justify">
+  
 En esta sección se presentan los resultados obtenidos a partir de los registros adquiridos electroencefalográficos procesados mediante NEUROREAD y de la información obtenida a través de cuestionarios externos utilizados para la clasificación previa de los participantes según su nivel de consumo de redes sociales y videos cortos. La plataforma permitió el procesamiento de las señales EEG para obtener la densidad espectral de potencia (PSD) de las diferentes bandas cerebrales durante las tareas de lectura y respuesta. A partir de la información obtenida, el app efectúa una interpretación de las variaciones observadas en las bandas para calcular el nivel de concentración mediante …
 
 Por otro lado, el usuario es libre de realizar su propia interpretación bajo el análisis manual de la PSD de las diferentes bandas, permitiendo obtener resultados similares a los mostrados para los participantes (Anexo 1).  
 
-
+</div>
 
