@@ -1,3 +1,4 @@
+<img width="888" height="592" alt="DANIEL_R2" src="https://github.com/user-attachments/assets/9cf73b14-14aa-48c6-b8bb-0961305b10e9" />
 <div align="center">
 
 # UNIVERSIDAD PERUANA CAYETANO HEREDIA
@@ -126,6 +127,9 @@ En la primera actividad, correspondiente a la lectura, se logró observar una cl
 
 | Persona | Cuestionario 1: Adicción a redes sociales | Cuestionario 2: Adicción a videos cortos | LECTURA 1 | R1 | L2 | R2 |
 |---------|-------------------------------------------|------------------------------------------|-----------|----|----|----|
-| Persona 1 | 9 | 16 | | | | |
+| Persona 1 | 9 | 16 |<img width="895" height="577" alt="GB_DANIEL_L1 (1)" src="https://github.com/user-attachments/assets/930c9f7f-1ea3-4ff6-bd1a-0fc6694a42b6" />
+ |<img width="876" height="562" alt="GB_DANIEL_R1" src="https://github.com/user-attachments/assets/2606ebe9-050e-4681-91d3-8c9a26d8cb7e" />
+ |<img width="891" height="577" alt="GB (3)" src="https://github.com/user-attachments/assets/1d457fb2-0a82-42c7-a443-c88402343814" />
+ | <img width="888" height="592" alt="DANIEL_R2" src="https://github.com/user-attachments/assets/e1988db0-ae98-4849-be54-996878f2af49" />|
 | Persona 2 | 14 | -2 | | | | |
 | Persona 3 | 0 | 0 | | | | |
