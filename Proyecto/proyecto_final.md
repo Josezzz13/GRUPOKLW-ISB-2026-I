@@ -14,7 +14,7 @@
 • Palabras clave : Adicción,redes sociales, electroencefalograma,ondas cerebrales,funciones cognitivas, neurofeedback
 
 ## Introducción 
-<div style="text-align: justify;">
+<div style="text-align: justify; text-justify: inter-word;">
   
 Actualmente, las redes sociales con mayor demanda son Youtube, TikTok e Instagram [1], estas presentan características similares como la proyección y difusión de videos de corta duración sobre varias temáticas, aspecto sobre el cual se respalda su creciente demanda. El 59% de los usuarios presentan un rango de edad entre 18 y 35 años [2]. Además, las redes sociales son una fuente creciente de información, contactos e incluso medio social entre jóvenes. Dado su constante uso, diversas instituciones han expresado su preocupación con respecto a su impacto en el desarrollo cognitivo de los adultos jóvenes [3]. Estudios actuales atribuyen que los efectos de las redes sociales en el desarrollo cognitivo son multifacéticos, con resultados tanto positivos como negativos [4,5,6,7]. Estos resultados están relacionados a factores, como el tipo de plataforma, la naturaleza de la interacción y características individuales como las habilidades cognitivas preexistentes y el estado emocional [4]. 
 
