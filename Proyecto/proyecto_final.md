@@ -16,8 +16,8 @@
 
 <div align="justify">
   
-El proyecto NEUROREAD aborda la falta de consenso y de herramientas integradas respecto a cómo el consumo frecuente de videos de formato corto afecta las funciones cognitivas en los adultos jóvenes. Para dar solución a este problema, se desarrolló una plataforma web experimental que unifica la reproducción controlada de microvideos, cuestionarios conductuales y pruebas de retención con el registro simultáneo de la actividad electroencefalográfica (EEG), centrándose específicamente en la dinámica de las ondas beta durante tareas de lectura y respuesta. Mediante la incorporación de un enfoque de neurofeedback que favorece la autorregulación, la herramienta procesa las señales cerebrales para calcular la densidad espectral de potencia (PSD). De este modo, NEUROREAD permite evaluar de manera objetiva variables conductuales y neurofisiológicas, ofreciendo una interpretación automatizada o ma
-
+El proyecto NEUROREAD aborda la falta de consenso y de herramientas integradas respecto a cómo el consumo frecuente de videos de formato corto afecta las funciones cognitivas en los adultos jóvenes. Para dar solución a este problema, se desarrolló una plataforma web experimental que unifica la reproducción controlada de microvideos, cuestionarios conductuales y pruebas de retención con el registro simultáneo de la actividad electroencefalográfica (EEG), centrándose específicamente en la dinámica de las ondas beta durante tareas de lectura y respuesta. Mediante la incorporación de un enfoque de neurofeedback que favorece la autorregulación, la herramienta procesa las señales cerebrales para calcular la densidad espectral de potencia (PSD). De este modo, NEUROREAD permite evaluar de manera objetiva variables conductuales y neurofisiológicas, ofreciendo una interpretación automatizada o manual de las variaciones en las bandas cerebrales para medir los niveles de concentración. 
+ 
 • Palabras clave : Adicción,redes sociales, electroencefalograma,ondas cerebrales,funciones cognitivas, neurofeedback
 
 </div>
