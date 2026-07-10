@@ -120,4 +120,13 @@ En la primera actividad, correspondiente a la lectura, se logró observar una cl
 | Lectura post-videos               | ~1600      | ~1800     | ~350       | ~150      | ~850  | ~450  | ~500       | Disminución de concentración, menor activación cognitiva.                       |
 | Cuestionario post-videos          | ~2500      | ~2500     | ~550       | ~200      | ~850  | ~450  | ~500       | Máxima concentración, hiperactivación cognitiva, rebote atencional.             |
 
+<div align="justify">Anexo 3. Tabla de resumen con los valores obtenidos en NEUROREAD..</div>
+<br>
+<div align="justify">Persona 2:</div>
 
+
+| Persona | Cuestionario 1: Adicción a redes sociales | Cuestionario 2: Adicción a videos cortos | LECTURA 1 | R1 | L2 | R2 |
+|---------|-------------------------------------------|------------------------------------------|-----------|----|----|----|
+| Persona 1 | 9 | 16 | | | | |
+| Persona 2 | 14 | -2 | | | | |
+| Persona 3 | 0 | 0 | | | | |
