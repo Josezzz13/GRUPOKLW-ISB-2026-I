@@ -1,2 +1,0 @@
-# Contenido del proyecto grupal
-
