@@ -68,6 +68,23 @@ Por otro lado, NEUROREAD también permite que el usuario realice una interpretac
 
 </div>
 
+
+## <div align="justify">Conclusiones</div>
+
+<div align="justify">
+  
+El desarrollo de NEUROREAD permitió establecer una plataforma experimental orientada a la evaluación objetiva de la relación entre el consumo de videos de corta duración y los procesos cognitivos asociados a la atención y concentración en adultos jóvenes. La integración de cuestionarios conductuales, pruebas de retención y registros electroencefalográficos permitió complementar la información subjetiva obtenida mediante autorreportes con indicadores neurofisiológicos derivados de la actividad cerebral.
+
+Los resultados obtenidos evidencian la viabilidad de utilizar la densidad espectral de potencia (PSD) de las bandas cerebrales, particularmente las ondas beta, como un indicador complementario para analizar variaciones en los estados de concentración durante tareas cognitivas. La plataforma facilitó la adquisición, procesamiento e interpretación de señales EEG, permitiendo identificar cambios en la actividad cerebral asociados a diferentes niveles de desempeño durante las actividades de lectura y respuesta.
+
+Asimismo, NEUROREAD representa una alternativa frente a las limitaciones presentes en estudios basados únicamente en cuestionarios de consumo digital, debido a que permite integrar dentro de un mismo entorno experimental la exposición controlada a estímulos audiovisuales, la evaluación cognitiva y el monitoreo neurofisiológico. Esto contribuye a una caracterización más completa de los posibles efectos del consumo frecuente de microvideos sobre el funcionamiento cognitivo.
+
+Sin embargo, los resultados obtenidos no permiten establecer una relación causal definitiva entre el consumo de videos cortos y las modificaciones en la actividad de las ondas beta, debido al tamaño de la muestra y a la influencia de factores individuales como hábitos digitales, estado emocional y diferencias cognitivas preexistentes. Por ello, se requiere ampliar la cantidad de participantes y realizar estudios longitudinales que permitan determinar cambios sostenidos en la actividad cerebral asociados a patrones específicos de consumo.
+
+Finalmente, la incorporación del enfoque de neurofeedback en NEUROREAD abre la posibilidad de desarrollar herramientas orientadas no solo a la evaluación, sino también al entrenamiento de la autorregulación cognitiva. En futuras investigaciones, la plataforma podría fortalecerse mediante la incorporación de más métricas neurofisiológicas, modelos de aprendizaje automático y análisis multimodales que permitan mejorar la precisión en la interpretación de los estados cognitivos.
+
+</div>
+
 ## <div align="justify">Referencias</div>
 
 <div align="justify">
