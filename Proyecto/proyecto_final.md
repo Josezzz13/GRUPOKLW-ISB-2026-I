@@ -13,6 +13,8 @@
 
 # NEUROREAD: Análisis del consumo de videos de formato corto en la dinámica de ondas beta durante tareas de lectura y respuesta: Un enfoque de neurofeedback web para la autorregulación. 
 
+Autores: Daniel Cardenas, María Soto, Astrid Fuentes, José Zapata, Matias Rubiños
+
 ## <div align="justify">Resumen</div>
 
 <div align="justify">
