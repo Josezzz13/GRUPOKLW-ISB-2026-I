@@ -122,8 +122,7 @@ En la primera actividad, correspondiente a la lectura, se logró observar una cl
 
 <div align="justify">Anexo 3. Tabla de resumen con los valores obtenidos en NEUROREAD..</div>
 <br>
-<div align="justify">Persona 2:</div>
-
+<div align="justify">
 
 | Persona | Cuestionario 1: Adicción a redes sociales | Cuestionario 2: Adicción a videos cortos | LECTURA 1 | R1 | L2 | R2 |
 |---------|-------------------------------------------|------------------------------------------|-----------|----|----|----|
